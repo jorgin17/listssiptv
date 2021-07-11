@@ -1,8 +1,8 @@
 #EXTM3U 
 size="big"
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", AO VIVO
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", FILMES
 #EXTBG:https://i.ibb.co/9cv31VQ/SSIPTV1.png
-https://reubliclistcopia.000webhostapp.com/Canais%20teck.m3u
+https://raw.githubusercontent.com/jorgin17/list/main/README.md
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", ABERTO
 #EXTBG:https://i.ibb.co/9cv31VQ/SSIPTV1.png
 http://listaiptvbrasil.com/tt.txt
