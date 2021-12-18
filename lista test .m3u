@@ -1,0 +1,2008 @@
+#EXTM3U
+#EXTINF:-1 group-title="CANAIS | GLOBO",0 Globo RJ DIGITAL
+http://srvcliente.me:80/warwick/123456/7
+#EXTINF:-1 group-title="CANAIS | GLOBO",0 Globo RJ DIGITAL*
+http://srvcliente.me:80/warwick/123456/2958
+#EXTINF:-1 group-title="CANAIS | GLOBO",0 Globo RJ HD
+http://srvcliente.me:80/warwick/123456/28
+#EXTINF:-1 group-title="CANAIS | GLOBO",0 Globo RJ HD*
+http://srvcliente.me:80/warwick/123456/2959
+#EXTINF:-1 group-title="CANAIS | FULL HD",0 Globo RJ HD+
+http://srvcliente.me:80/warwick/123456/44
+#EXTINF:-1 group-title="CANAIS | FULL HD",0 Globo RJ HD+
+http://srvcliente.me:80/warwick/123456/777
+#EXTINF:-1 group-title="CANAIS | GLOBO",0 Globo SP DIGITAL
+http://srvcliente.me:80/warwick/123456/8
+#EXTINF:-1 group-title="CANAIS | GLOBO",0 Globo SP DIGITAL*
+http://srvcliente.me:80/warwick/123456/2954
+#EXTINF:-1 group-title="CANAIS | GLOBO",0 Globo SP HD
+http://srvcliente.me:80/warwick/123456/47
+#EXTINF:-1 group-title="CANAIS | GLOBO",0 Globo SP HD²
+http://srvcliente.me:80/warwick/123456/26657
+#EXTINF:-1 group-title="CANAIS | GLOBO",0 Globo SP HD*
+http://srvcliente.me:80/warwick/123456/2955
+#EXTINF:-1 group-title="CANAIS | FULL HD",0 Globo SP HD+
+http://srvcliente.me:80/warwick/123456/48
+#EXTINF:-1 group-title="CANAIS | FULL HD",0 Globo SP HD+
+http://srvcliente.me:80/warwick/123456/778
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",3 Palavrinhas
+http://srvcliente.me:80/warwick/123456/4163
+#EXTINF:-1 group-title="CANAIS 24 HORAS",3 Palavrinhas 24HRS!
+http://srvcliente.me:80/warwick/123456/23614
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",A Era do Gelo
+http://srvcliente.me:80/warwick/123456/4244
+#EXTINF:-1 group-title="CANAIS 24 HORAS",A Feiticeira 24HRS!
+http://srvcliente.me:80/warwick/123456/23620
+#EXTINF:-1 group-title="CANAIS 24 HORAS",A Grande Familia 24HRS!
+http://srvcliente.me:80/warwick/123456/23615
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES",A&E DIGITAL
+http://srvcliente.me:80/warwick/123456/257
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES",A&E DIGITAL*
+http://srvcliente.me:80/warwick/123456/3114
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES",A&E HD
+http://srvcliente.me:80/warwick/123456/279
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES",A&E HD*
+http://srvcliente.me:80/warwick/123456/3115
+#EXTINF:-1 group-title="CANAIS | FULL HD",A&E HD+
+http://srvcliente.me:80/warwick/123456/302
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Aladdin 24HRS!
+http://srvcliente.me:80/warwick/123456/23537
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES",AMC DIGITAL
+http://srvcliente.me:80/warwick/123456/258
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES",AMC DIGITAL*
+http://srvcliente.me:80/warwick/123456/3116
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES",AMC HD
+http://srvcliente.me:80/warwick/123456/280
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES",AMC HD*
+http://srvcliente.me:80/warwick/123456/3117
+#EXTINF:-1 group-title="CANAIS | FULL HD",AMC HD+
+http://srvcliente.me:80/warwick/123456/303
+#EXTINF:-1 group-title="CANAIS | CULTURA",Animal Planet DIGITAL
+http://srvcliente.me:80/warwick/123456/334
+#EXTINF:-1 group-title="CANAIS | CULTURA",Animal Planet DIGITAL*
+http://srvcliente.me:80/warwick/123456/3174
+#EXTINF:-1 group-title="CANAIS | CULTURA",Animal Planet HD
+http://srvcliente.me:80/warwick/123456/340
+#EXTINF:-1 group-title="CANAIS | CULTURA",Animal Planet HD*
+http://srvcliente.me:80/warwick/123456/3177
+#EXTINF:-1 group-title="CANAIS | FULL HD",Animal Planet HD+
+http://srvcliente.me:80/warwick/123456/3178
+#EXTINF:-1 group-title="CANAIS | FULL HD",Animal Planet HD+
+http://srvcliente.me:80/warwick/123456/346
+#EXTINF:-1 group-title="CANAIS | CULTURA",Arte DIGITAL*
+http://srvcliente.me:80/warwick/123456/3175
+#EXTINF:-1 group-title="CANAIS | CULTURA",Arte HD*
+http://srvcliente.me:80/warwick/123456/3176
+#EXTINF:-1 group-title="CANAIS 24 HORAS",As Meninas Superpoderosas 24HRS!
+http://srvcliente.me:80/warwick/123456/23538
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES",AXN DIGITAL
+http://srvcliente.me:80/warwick/123456/259
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES",AXN DIGITAL*
+http://srvcliente.me:80/warwick/123456/3118
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES",AXN HD
+http://srvcliente.me:80/warwick/123456/281
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES",AXN HD*
+http://srvcliente.me:80/warwick/123456/3119
+#EXTINF:-1 group-title="CANAIS | FULL HD",AXN HD+
+http://srvcliente.me:80/warwick/123456/304
+#EXTINF:-1 group-title="CANAIS | FULL HD",AXN HD+*
+http://srvcliente.me:80/warwick/123456/3120
+#EXTINF:-1 group-title="CANAIS | INFANTIS",Baby TV DIGITAL
+http://srvcliente.me:80/warwick/123456/228
+#EXTINF:-1 group-title="CANAIS | INFANTIS",Baby TV DIGITAL*
+http://srvcliente.me:80/warwick/123456/3055
+#EXTINF:-1 group-title="CANAIS | INFANTIS",Baby TV HD*
+http://srvcliente.me:80/warwick/123456/3056
+#EXTINF:-1 group-title="CANAIS | TV ABERTA",Band Bahia DIGITAL
+http://srvcliente.me:80/warwick/123456/56
+#EXTINF:-1 group-title="CANAIS | TV ABERTA",Band BSB HD
+http://srvcliente.me:80/warwick/123456/61
+#EXTINF:-1 group-title="CANAIS | TV ABERTA",Band Campeinas DIGITAL*
+http://srvcliente.me:80/warwick/123456/2985
+#EXTINF:-1 group-title="CANAIS | TV ABERTA",Band Campinas HD
+http://srvcliente.me:80/warwick/123456/62
+#EXTINF:-1 group-title="CANAIS | FULL HD",Band Campinas HD+
+http://srvcliente.me:80/warwick/123456/72
+#EXTINF:-1 group-title="CANAIS | TV ABERTA",Band DIGITAL
+http://srvcliente.me:80/warwick/123456/57
+#EXTINF:-1 group-title="CANAIS | TV ABERTA",Band Goiania HD
+http://srvcliente.me:80/warwick/123456/68
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS",Band News DIGITAL
+http://srvcliente.me:80/warwick/123456/351
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS",Band News DIGITAL*
+http://srvcliente.me:80/warwick/123456/2986
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS",Band News HD*
+http://srvcliente.me:80/warwick/123456/2987
+#EXTINF:-1 group-title="CANAIS | TV ABERTA",Band Nordeste DIGITAL*
+http://srvcliente.me:80/warwick/123456/2984
+#EXTINF:-1 group-title="CANAIS | TV ABERTA",Band Parana Taroba HD
+http://srvcliente.me:80/warwick/123456/67
+#EXTINF:-1 group-title="CANAIS | TV ABERTA",Band RJ DIGITAL*
+http://srvcliente.me:80/warwick/123456/23142
+#EXTINF:-1 group-title="CANAIS | TV ABERTA",Band RJ HD
+http://srvcliente.me:80/warwick/123456/63
+#EXTINF:-1 group-title="CANAIS | TV ABERTA",Band RJ HD*
+http://srvcliente.me:80/warwick/123456/23141
+#EXTINF:-1 group-title="CANAIS | FULL HD",Band RJ HD+
+http://srvcliente.me:80/warwick/123456/70
+#EXTINF:-1 group-title="CANAIS | TV ABERTA",Band RS HD
+http://srvcliente.me:80/warwick/123456/64
+#EXTINF:-1 group-title="CANAIS | FULL HD",Band RS HD+
+http://srvcliente.me:80/warwick/123456/71
+#EXTINF:-1 group-title="CANAIS | TV ABERTA",Band Sergipe HD
+http://srvcliente.me:80/warwick/123456/65
+#EXTINF:-1 group-title="CANAIS | TV ABERTA",Band SP Digital
+http://srvcliente.me:80/warwick/123456/121
+#EXTINF:-1 group-title="CANAIS | TV ABERTA",Band SP DIGITAL*
+http://srvcliente.me:80/warwick/123456/2981
+#EXTINF:-1 group-title="CANAIS | TV ABERTA",Band SP HD
+http://srvcliente.me:80/warwick/123456/66
+#EXTINF:-1 group-title="CANAIS | TV ABERTA",Band SP HD*
+http://srvcliente.me:80/warwick/123456/2982
+#EXTINF:-1 group-title="CANAIS | FUL	
+#EXTINF:-1 group-title="CANAIS | ESPORTE",Band Sports DIGITAL*
+http://srvcliente.me:80/warwick/123456/3028
+#EXTINF:-1 group-title="CANAIS | ESPORTE",Band Sports HD
+http://srvcliente.me:80/warwick/123456/163
+#EXTINF:-1 group-title="CANAIS | ESPORTE",Band Sports HD*
+http://srvcliente.me:80/warwick/123456/3029
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Barbie 01
+http://srvcliente.me:80/warwick/123456/4253
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Barbie 02
+http://srvcliente.me:80/warwick/123456/4254
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Barbie 04
+http://srvcliente.me:80/warwick/123456/4256
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Barbie 05
+http://srvcliente.me:80/warwick/123456/4257
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Batman & Robin: 1 Temporada
+http://srvcliente.me:80/warwick/123456/4193
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Batman & Robin: 2 Temporada
+http://srvcliente.me:80/warwick/123456/4194
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Batman & Robin: 3 Temporada
+http://srvcliente.me:80/warwick/123456/4195
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Batman Trilogia
+http://srvcliente.me:80/warwick/123456/4230
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Ben 10 24HRS!
+http://srvcliente.me:80/warwick/123456/23539
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS",BIS DIGITAL
+http://srvcliente.me:80/warwick/123456/365
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS",BIS DIGITAL*
+http://srvcliente.me:80/warwick/123456/3193
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS",BIS HD
+http://srvcliente.me:80/warwick/123456/383
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS",BIS HD*
+http://srvcliente.me:80/warwick/123456/3194
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Bita e os Animais 24HRS!
+http://srvcliente.me:80/warwick/123456/23616
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Blade Trilogia
+http://srvcliente.me:80/warwick/123456/4179
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Bob Esponja 24HRS!
+http://srvcliente.me:80/warwick/123456/23540
+#EXTINF:-1 group-title="CANAIS | INFANTIS",Boomerang DIGITAL
+http://srvcliente.me:80/warwick/123456/229
+#EXTINF:-1 group-title="CANAIS | INFANTIS",Boomerang DIGITAL*
+http://srvcliente.me:80/warwick/123456/3057
+#EXTINF:-1 group-title="CANAIS | INFANTIS",Boomerang HD*
+http://srvcliente.me:80/warwick/123456/3058
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Breaking Bad 24HRS!
+http://srvcliente.me:80/warwick/123456/23541
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Brinquedo Assassino
+http://srvcliente.me:80/warwick/123456/4180
+#EXTINF:-1 group-title="CANAIS | TV ABERTA",Canal Brasil DIGITAL
+http://srvcliente.me:80/warwick/123456/113
+#EXTINF:-1 group-title="CANAIS | TV ABERTA",Canal Brasil DIGITAL*
+http://srvcliente.me:80/warwick/123456/3001
+#EXTINF:-1 group-title="CANAIS | TV ABERTA",Canal do Boi DIGITAL
+http://srvcliente.me:80/warwick/123456/114
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES",Canal Sony DIGITAL
+http://srvcliente.me:80/warwick/123456/260
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES",Canal Sony DIGITAL*
+http://srvcliente.me:80/warwick/123456/3121
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES",Canal Sony HD
+http://srvcliente.me:80/warwick/123456/282
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES",Canal Sony HD*
+http://srvcliente.me:80/warwick/123456/3122
+#EXTINF:-1 group-title="CANAIS | FULL HD",Canal Sony HD+
+http://srvcliente.me:80/warwick/123456/305
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS",Cancao Nova DIGITAL
+http://srvcliente.me:80/warwick/123456/362
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Cao Coragem 24HRS!
+http://srvcliente.me:80/warwick/123456/23542
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Capitão América
+http://srvcliente.me:80/warwick/123456/4108
+#EXTINF:-1 group-title="CANAIS | INFANTIS",Cartoon Network DIGITAL
+http://srvcliente.me:80/warwick/123456/230
+#EXTINF:-1 group-title="CANAIS | INFANTIS",Cartoon Network DIGITAL*
+http://srvcliente.me:80/warwick/123456/3059
+#EXTINF:-1 group-title="CANAIS | INFANTIS",Cartoon Network HD
+http://srvcliente.me:80/warwick/123456/243
+#EXTINF:-1 group-title="CANAIS | INFANTIS",Cartoon Network HD*
+http://srvcliente.me:80/warwick/123456/3060
+#EXTINF:-1 group-title="CANAIS | FULL HD",Cartoon Network HD+
+http://srvcliente.me:80/warwick/123456/252
+#EXTINF:-1 group-title="CANAIS | FULL HD",Cartoon Network HD+*
+http://srvcliente.me:80/warwick/123456/23174
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Caverna do Dragao 24HRS!
+http://srvcliente.me:80/warwick/123456/23543
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Caverna do Dragão
+http://srvcliente.me:80/warwick/123456/4109
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Chapolin 01 Temporada
+http://srvcliente.me:80/warwick/123456/24192
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Chapolin 02 Temporada
+http://srvcliente.me:80/warwick/123456/24193
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Chapolin 03 Temporada
+http://srvcliente.me:80/warwick/123456/24194
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Chapolin 04 Temporada
+http://srvcliente.me:80/warwick/123456/24195
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Chapolin 05 Temporada
+http://srvcliente.me:80/warwick/123456/24196
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Chapolin 06 Temporada
+http://srvcliente.me:80/warwick/123456/24197
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Chapolin 07 Temporada
+http://srvcliente.me:80/warwick/123456/24198
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Chapolin Colorado 24HRS!
+http://srvcliente.me:80/warwick/123456/23544
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Chaves 00
+http://srvcliente.me:80/warwick/123456/4110
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Chaves 01
+http://srvcliente.me:80/warwick/123456/23919
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Chaves 02
+http://srvcliente.me:80/warwick/123456/23920
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Chaves 03
+http://srvcliente.me:80/warwick/123456/23921
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Chaves 04
+http://srvcliente.me:80/warwick/123456/23922
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Chaves 05
+http://srvcliente.me:80/warwick/123456/23923
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Chaves 06
+http://srvcliente.me:80/warwick/123456/23924
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Chaves 07
+http://srvcliente.me:80/warwick/123456/23925
+#EXTINF:-1 group-title="CANAIS 24HRS | ESPECIAL VIP",Chaves 08 - ESPECIAL
+http://srvcliente.me:80/warwick/123456/23926
+#EXTINF:-1 group-title="CANAIS 24 HORAS",Chaves 24HRS!
+http://srvcliente.me:80/warwick/123456/23545
+#EXTINF:-1 group-title="FILMES | OS TRAPALHÕES",O Marujo Trapalhão (1976)
+http://srvcliente.me:80/movie/warwick/123456/1951.mp4
+#EXTINF:-1 group-title="FILMES | COMÉDIA",Simplesmente Acontece (2014)
+http://srvcliente.me:80/movie/warwick/123456/962.mp4
+#EXTINF:-1 group-title="FILMES | FICÇÃO CIENTÍFICA",Sinais (2002)
+http://srvcliente.me:80/movie/warwick/123456/1175.mp4
+#EXTINF:-1 group-title="FILMES | GUERRA",Sniper Americano (2014)
+http://srvcliente.me:80/movie/warwick/123456/1211.mp4
+#EXTINF:-1 group-title="FILMES | INFANTIS / ANIMAÇÃO",O Filme (2015)
+http://srvcliente.me:80/movie/warwick/123456/2125.mp4
+#EXTINF:-1 group-title="FILMES | TERROR E SUSPENSE",Sobrenatural 1 (2010)
+http://srvcliente.me:80/movie/warwick/123456/2586.mp4
+#EXTINF:-1 group-title="FILMES | TERROR E SUSPENSE",Sobrenatural 2: Capítulo 2 (2013)
+http://srvcliente.me:80/movie/warwick/123456/2585.mp4
+#EXTINF:-1 group-title="FILMES | TERROR E SUSPENSE",Sobrenatural 3: A Origem (2015)
+http://srvcliente.me:80/movie/warwick/123456/2587.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Sobreviva a Noite (2019)
+http://srvcliente.me:80/movie/warwick/123456/737.mp4
+#EXTINF:-1 group-title="FILMES | AÇÃO E AVENTURA",Sobreviva a Noite (2019)
+http://srvcliente.me:80/movie/warwick/123456/2373.mp4
+#EXTINF:-1 group-title="FILMES | COMÉDIA",Sobrevivendo às Festas com os Parentes (2018)
+http://srvcliente.me:80/movie/warwick/123456/2050.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2020",Sobreviver à Noite (2020)
+http://srvcliente.me:80/movie/warwick/123456/23380.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Virei uma Garota! (2019)
+http://srvcliente.me:80/movie/warwick/123456/739.mp4
+#EXTINF:-1 group-title="FILMES | DRAMA E ROMANCE",Sol da Meia-noite (2018)
+http://srvcliente.me:80/movie/warwick/123456/1341.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2020",Soldado Anônimo: Lei do Retorno (2020)
+http://srvcliente.me:80/movie/warwick/123456/740.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 90",Soldado Universal (1992)
+http://srvcliente.me:80/movie/warwick/123456/1720.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",Soldado Universal 1 (1992)
+http://srvcliente.me:80/movie/warwick/123456/1868.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",Soldado Universal 2 (1998)
+http://srvcliente.me:80/movie/warwick/123456/1869.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",Soldado Universal 3: Regeneração (2009)
+http://srvcliente.me:80/movie/warwick/123456/1870.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",Soldado Universal 4: Juízo Final (2012)
+http://srvcliente.me:80/movie/warwick/123456/1871.mp4
+#EXTINF:-1 group-title="FILMES | AÇÃO E AVENTURA",Solo (2018)
+http://srvcliente.me:80/movie/warwick/123456/2374.mp4
+#EXTINF:-1 group-title="FILMES | TERROR E SUSPENSE",Sombras da Noite (2012)
+http://srvcliente.me:80/movie/warwick/123456/2589.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2020",Sonic: O Filme (2020)
+http://srvcliente.me:80/movie/warwick/123456/741.mp4
+#EXTINF:-1 group-title="FILMES | AÇÃO E AVENTURA",Speed Racer (2008)
+http://srvcliente.me:80/movie/warwick/123456/2375.mp4
+#EXTINF:-1 group-title="FILMES | COMÉDIA",Spot - Um Cão da Pesada (2001)
+http://srvcliente.me:80/movie/warwick/123456/2051.mp4
+#EXTINF:-1 group-title="FILMES | COMÉDIA",Sr. & Sra. Smith (2005)
+http://srvcliente.me:80/movie/warwick/123456/964.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 70 & 80",Stallone: Cobra (1986)
+http://srvcliente.me:80/movie/warwick/123456/1598.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Stan & Ollie - O Gordo e o Magro (2019)
+http://srvcliente.me:80/movie/warwick/123456/686.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",Star Trek 1 (2009)
+http://srvcliente.me:80/movie/warwick/123456/2379.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",Star Trek 2: Além da Escuridão (2013)
+http://srvcliente.me:80/movie/warwick/123456/2378.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",Star Trek 3: Sem Fronteiras (2016)
+http://srvcliente.me:80/movie/warwick/123456/2380.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",Star Wars 02: O Império Contra-Ataca (1980)
+http://srvcliente.me:80/movie/warwick/123456/1873.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",Star Wars 03: O Retorno do Jedi (1983)
+http://srvcliente.me:80/movie/warwick/123456/1874.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",Star Wars 04: Episódio 1 - A Ameaça Fantasma (1999)
+http://srvcliente.me:80/movie/warwick/123456/1875.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",Star Wars 05: Episódio 2 - Ataque dos Clones (2002)
+http://srvcliente.me:80/movie/warwick/123456/1876.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",Star Wars 06: Episódio 3 - A Vingança dos Sith (2005)
+http://srvcliente.me:80/movie/warwick/123456/1877.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",Star Wars 07: O Despertar da Força (2015)
+http://srvcliente.me:80/movie/warwick/123456/1878.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",Star Wars 1: Uma Nova Esperança (1977)
+http://srvcliente.me:80/movie/warwick/123456/1872.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",Star Wars Os Ultimos Jedi (2018)
+http://srvcliente.me:80/movie/warwick/123456/2381.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Star Wars: A Ascensão Skywalker (2019)
+http://srvcliente.me:80/movie/warwick/123456/742.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Stephanie (2019)
+http://srvcliente.me:80/movie/warwick/123456/23369.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 90",Stigmata (1999)
+http://srvcliente.me:80/movie/warwick/123456/2592.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 90",Street Fighter - A Última Batalha (1994)
+http://srvcliente.me:80/movie/warwick/123456/1721.mp4
+#EXTINF:-1 group-title="FILMES | COMÉDIA",Stuber - A Corrida Maluca (2019)
+http://srvcliente.me:80/movie/warwick/123456/2052.mp4
+#EXTINF:-1 group-title="FILMES | AÇÃO E AVENTURA",Stuber - A Corrida Maluca (2019)
+http://srvcliente.me:80/movie/warwick/123456/2382.mp4
+#EXTINF:-1 group-title="FILMES | AÇÃO E AVENTURA",Submundo Das Lutas (2016)
+http://srvcliente.me:80/movie/warwick/123456/2383.mp4
+#EXTINF:-1 group-title="FILMES | FANTASIA",Super 8 (2011)
+http://srvcliente.me:80/movie/warwick/123456/1041.mp4
+#EXTINF:-1 group-title="FILMES | COMÉDIA",Super Tiras 2 (2018)
+http://srvcliente.me:80/movie/warwick/123456/2053.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Superação: O Milagre da Fé (2019)
+http://srvcliente.me:80/movie/warwick/123456/1096.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2020",Superman: Red Son (2020)
+http://srvcliente.me:80/movie/warwick/123456/23381.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 70 & 80",Surf no Hawaí (1987)
+http://srvcliente.me:80/movie/warwick/123456/1599.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Suspíria: A Dança do Medo (2019)
+http://srvcliente.me:80/movie/warwick/123456/1097.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Sweetheart (2019)
+http://srvcliente.me:80/movie/warwick/123456/743.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Swiped: Arrasando Corações (2019)
+http://srvcliente.me:80/movie/warwick/123456/23408.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2020",Sérgio (2020)
+http://srvcliente.me:80/movie/warwick/123456/735.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2020",Sócias em Guerra (2020)
+http://srvcliente.me:80/movie/warwick/123456/738.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 70 & 80",Tango & Cash - Os Vingadores (1989)
+http://srvcliente.me:80/movie/warwick/123456/1600.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",O Mais Procurado (2019)
+http://srvcliente.me:80/movie/warwick/123456/23409.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2020",imbécil (2020)
+http://srvcliente.me:80/movie/warwick/123456/745.mp4
+#EXTINF:-1 group-title="FILMES | COMÉDIA",Ted 1 (2012)
+http://srvcliente.me:80/movie/warwick/123456/965.mp4
+#EXTINF:-1 group-title="FILMES | COMÉDIA",Ted 2 (2015)
+http://srvcliente.me:80/movie/warwick/123456/966.mp4
+#EXTINF:-1 group-title="FILMES | TERROR E SUSPENSE",Temos Vagas 2: A Primeira Diária (2008)
+http://srvcliente.me:80/movie/warwick/123456/2594.mp4
+#EXTINF:-1 group-title="FILMES | GUERRA",Terra de Minas (2015)
+http://srvcliente.me:80/movie/warwick/123456/1212.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 70 & 80",Terremoto (1974)
+http://srvcliente.me:80/movie/warwick/123456/1601.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Terremoto (2019)
+http://srvcliente.me:80/movie/warwick/123456/746.mp4
+#EXTINF:-1 group-title="FILMES | TERROR E SUSPENSE",Terror Profundo (2017)
+http://srvcliente.me:80/movie/warwick/123456/2595.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Testemunhas Silenciosas (2019)
+http://srvcliente.me:80/movie/warwick/123456/23348.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",The Beach Bum - Levando a Vida Numa Boa (2019)
+http://srvcliente.me:80/movie/warwick/123456/749.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2020",The F**k-It List (2020)
+http://srvcliente.me:80/movie/warwick/123456/25536.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2020",The Old Guard (2020)
+http://srvcliente.me:80/movie/warwick/123456/24683.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 70 & 80",The Warriors - Os Selvagens da Noite (1979)
+http://srvcliente.me:80/movie/warwick/123456/2412.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2020",Thiago Ventura: POKAS (2020)
+http://srvcliente.me:80/movie/warwick/123456/24277.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Tina & Téo - A Pedra Encantada (2019)
+http://srvcliente.me:80/movie/warwick/123456/23370.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 90",Titanic (1997)
+http://srvcliente.me:80/movie/warwick/123456/1724.mp4
+#EXTINF:-1 group-title="FILMES | TERROR E SUSPENSE",Toda Arte é Perigosa (2019)
+http://srvcliente.me:80/movie/warwick/123456/2602.mp4
+#EXTINF:-1 group-title="FILMES | DRAMA E ROMANCE",Todo Clichê do Amor (2018)
+http://srvcliente.me:80/movie/warwick/123456/1343.mp4
+#EXTINF:-1 group-title="FILMES | FANTASIA",Todo Dia (2018)
+http://srvcliente.me:80/movie/warwick/123456/1042.mp4
+#EXTINF:-1 group-title="FILMES | DRAMA E ROMANCE",Todo Dia (2018)
+http://srvcliente.me:80/movie/warwick/123456/1344.mp4
+#EXTINF:-1 group-title="FILMES | COMÉDIA",Todo Mundo em Pânico 3 (2003)
+http://srvcliente.me:80/movie/warwick/123456/2057.mp4
+#EXTINF:-1 group-title="FILMES | COMÉDIA",Todo Mundo em Pânico 4 (2006)
+http://srvcliente.me:80/movie/warwick/123456/2058.mp4
+#EXTINF:-1 group-title="FILMES | COMÉDIA",Todo Mundo em Pânico 5 (2013)
+http://srvcliente.me:80/movie/warwick/123456/2059.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Togo (2019)
+http://srvcliente.me:80/movie/warwick/123456/753.mp4
+#EXTINF:-1 group-title="FILMES | FANTASIA",Tomorrowland: Um Lugar Onde Nada é Impossível (2015)
+http://srvcliente.me:80/movie/warwick/123456/1043.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 90",Top Gang! - Ases Muito Loucos (1991)
+http://srvcliente.me:80/movie/warwick/123456/1725.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 70 & 80",Top Gun - Ases Indomáveis (1986)
+http://srvcliente.me:80/movie/warwick/123456/1602.mp4
+#EXTINF:-1 group-title="FILMES | INFANTIS / ANIMAÇÃO",Toy Story 1 - Um Mundo de Aventuras (1995)
+http://srvcliente.me:80/movie/warwick/123456/1268.mp4
+#EXTINF:-1 group-title="SAGA | DISNEY",Toy Story 1: Um Mundo de Aventuras (1995)
+http://srvcliente.me:80/movie/warwick/123456/1839.mp4
+#EXTINF:-1 group-title="SAGA | DISNEY",Toy Story 2 (1999)
+http://srvcliente.me:80/movie/warwick/123456/1840.mp4
+#EXTINF:-1 group-title="FILMES | INFANTIS / ANIMAÇÃO",Toy Story 2 (1999)
+http://srvcliente.me:80/movie/warwick/123456/1269.mp4
+#EXTINF:-1 group-title="SAGA | DISNEY",Toy Story 3 (2010)
+http://srvcliente.me:80/movie/warwick/123456/1841.mp4
+#EXTINF:-1 group-title="FILMES | INFANTIS / ANIMAÇÃO",Toy Story 3 (2010)
+http://srvcliente.me:80/movie/warwick/123456/1270.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Toy Story 4 (2019)
+http://srvcliente.me:80/movie/warwick/123456/1098.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 90",Trainspotting - Sem Limites (1996)
+http://srvcliente.me:80/movie/warwick/123456/1719.mp4
+#EXTINF:-1 group-title="FILMES | FICÇÃO CIENTÍFICA",Transformers 1 (2007)
+http://srvcliente.me:80/movie/warwick/123456/1179.mp4
+#EXTINF:-1 group-title="FILMES | FICÇÃO CIENTÍFICA",Transformers 4: A Era da Extinção (2014)
+http://srvcliente.me:80/movie/warwick/123456/1182.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Tripla Ameaça (2019)
+http://srvcliente.me:80/movie/warwick/123456/754.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2020",Troco em Dobro (2020)
+http://srvcliente.me:80/movie/warwick/123456/755.mp4
+#EXTINF:-1 group-title="FILMES | FANTASIA",Tron - O Legado (2010)
+http://srvcliente.me:80/movie/warwick/123456/1044.mp4
+#EXTINF:-1 group-title="FILMES | AÇÃO E AVENTURA",Tropa de Elite 1 (2007)
+http://srvcliente.me:80/movie/warwick/123456/2391.mp4
+#EXTINF:-1 group-title="FILMES | AÇÃO E AVENTURA",Tropa de Elite 2: O Inimigo Agora é Outro (2010)
+http://srvcliente.me:80/movie/warwick/123456/2392.mp4
+#EXTINF:-1 group-title="FILMES | FICÇÃO CIENTÍFICA",Tropas Estelares 2 (2004)
+http://srvcliente.me:80/movie/warwick/123456/1185.mp4
+#EXTINF:-1 group-title="FILMES | FICÇÃO CIENTÍFICA",Tropas Estelares 3 (2008)
+http://srvcliente.me:80/movie/warwick/123456/1187.mp4
+#EXTINF:-1 group-title="FILMES | FICÇÃO CIENTÍFICA",Tropas Estelares 4: A Invasão (2012)
+http://srvcliente.me:80/movie/warwick/123456/1186.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 90",True Lies (1994)
+http://srvcliente.me:80/movie/warwick/123456/1726.mp4
+#EXTINF:-1 group-title="FILMES | AÇÃO E AVENTURA",Truque de Mestre 1 (2013)
+http://srvcliente.me:80/movie/warwick/123456/886.mp4
+#EXTINF:-1 group-title="FILMES | AÇÃO E AVENTURA",Truque de Mestre 2: O 2º Ato (2016)
+http://srvcliente.me:80/movie/warwick/123456/887.mp4
+#EXTINF:-1 group-title="FILMES | COMÉDIA",Tudo Para Ficar com Ela (2014)
+http://srvcliente.me:80/movie/warwick/123456/2060.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 90",Tudo por Amor (1991)
+http://srvcliente.me:80/movie/warwick/123456/1727.mp4
+#EXTINF:-1 group-title="FILMES | COMÉDIA",Tully (2018)
+http://srvcliente.me:80/movie/warwick/123456/2061.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Turma da Mônica: Laços (2019)
+http://srvcliente.me:80/movie/warwick/123456/1099.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Táxi 5 (2019)
+http://srvcliente.me:80/movie/warwick/123456/744.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2020",Ultraman R&B: O Filme - O Cristal da União (2020)
+http://srvcliente.me:80/movie/warwick/123456/26156.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Um Amor de Filhote (2019)
+http://srvcliente.me:80/movie/warwick/123456/757.mp4
+#EXTINF:-1 group-title="FILMES | DRAMA E ROMANCE",Um Amor para Recordar (2002)
+http://srvcliente.me:80/movie/warwick/123456/2098.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2020",Um Crime para Dois (2020)
+http://srvcliente.me:80/movie/warwick/123456/23383.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Um Espião Animal (2019)
+http://srvcliente.me:80/movie/warwick/123456/762.mp4
+#EXTINF:-1 group-title="FILMES | COMÉDIA",Um Espião e Meio (2016)
+http://srvcliente.me:80/movie/warwick/123456/26638.mp4
+#EXTINF:-1 group-title="FILMES | GUERRA",Um Homem Comum (2018)
+http://srvcliente.me:80/movie/warwick/123456/1213.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Um Lindo Dia na Vizinhança (2019)
+http://srvcliente.me:80/movie/warwick/123456/763.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 90",Um Lugar Chamado Notting Hill (1999)
+http://srvcliente.me:80/movie/warwick/123456/1731.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Um Mistério de Aurora Teagarden: Uma Herança de Matar (2019)
+http://srvcliente.me:80/movie/warwick/123456/764.mp4
+#EXTINF:-1 group-title="FILMES | DRAMA E ROMANCE",Um Olhar do Paraíso (2009)
+http://srvcliente.me:80/movie/warwick/123456/2099.mp4
+#EXTINF:-1 group-title="FILMES | INFANTIS / ANIMAÇÃO",Um Panda em Apuros (2019)
+http://srvcliente.me:80/movie/warwick/123456/1957.mp4
+#EXTINF:-1 group-title="FILMES | INFANTIS / ANIMAÇÃO",Um Panda em Apuros (2019)
+http://srvcliente.me:80/movie/warwick/123456/2396.mp4
+#EXTINF:-1 group-title="FILMES | COMÉDIA",Um Parto de Viagem (2010)
+http://srvcliente.me:80/movie/warwick/123456/2064.mp4
+#EXTINF:-1 group-title="FILMES | AÇÃO E AVENTURA",Um Passado de Presente (2019)
+http://srvcliente.me:80/movie/warwick/123456/2397.mp4
+#EXTINF:-1 group-title="FILMES | COMÉDIA",Um Pequeno Favor (2018)
+http://srvcliente.me:80/movie/warwick/123456/2065.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Um Romance nas Entrelinhas (2019)
+http://srvcliente.me:80/movie/warwick/123456/765.mp4
+#EXTINF:-1 group-title="FILMES | COMÉDIA",Um Salão do Barulho 2 – Barbeiragem Total (2004)
+http://srvcliente.me:80/movie/warwick/123456/24172.mp4
+#EXTINF:-1 group-title="FILMES | COMÉDIA",Um Salão do Barulho 3 (2016)
+http://srvcliente.me:80/movie/warwick/123456/24173.mp4
+#EXTINF:-1 group-title="FILMES | COMÉDIA",Um Senhor Estagiário (2015)
+http://srvcliente.me:80/movie/warwick/123456/2066.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 90",Um Sonho de Liberdade (1994)
+http://srvcliente.me:80/movie/warwick/123456/1732.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 70 & 80",Um Tira da Pesada 1 (1984)
+http://srvcliente.me:80/movie/warwick/123456/1603.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 70 & 80",Um Tira da Pesada 2 (1987)
+http://srvcliente.me:80/movie/warwick/123456/1604.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 70 & 80",Um Tira da Pesada III (1994)
+http://srvcliente.me:80/movie/warwick/123456/1605.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 90",Um Tira Muito Suspeito (1999)
+http://srvcliente.me:80/movie/warwick/123456/1733.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 90",Um Tira no Jardim de Infância (1990)
+http://srvcliente.me:80/movie/warwick/123456/1734.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Uma Aventura Lego 2 (2019)
+http://srvcliente.me:80/movie/warwick/123456/1100.mp4
+#EXTINF:-1 group-title="FILMES | INFANTIS / ANIMAÇÃO",Uma Aventura Lego 2 (2019)
+http://srvcliente.me:80/movie/warwick/123456/1272.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 90",Uma Babá Quase Perfeita (1993)
+http://srvcliente.me:80/movie/warwick/123456/1728.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Uma Criança Como Jake (2018)
+http://srvcliente.me:80/movie/warwick/123456/24199.mp4
+#EXTINF:-1 group-title="FILMES | FANTASIA",Uma Dobra no Tempo (2018)
+http://srvcliente.me:80/movie/warwick/123456/1045.mp4
+#EXTINF:-1 group-title="FILMES | OS TRAPALHÕES",Uma Escola Atrapalhada (1990)
+http://srvcliente.me:80/movie/warwick/123456/1952.mp4
+#EXTINF:-1 group-title="FILMES | DRAMA E ROMANCE",Uma Família de Dois (2016)
+http://srvcliente.me:80/movie/warwick/123456/2097.mp4
+#EXTINF:-1 group-title="FILMES | GUERRA",Uma Guerra Pessoal (2019)
+http://srvcliente.me:80/movie/warwick/123456/2425.mp4
+#EXTINF:-1 group-title="FILMES | COMÉDIA",Uma Ladra Sem Limites (2013)
+http://srvcliente.me:80/movie/warwick/123456/2062.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 90",Uma Linda Mulher (1990)
+http://srvcliente.me:80/movie/warwick/123456/1729.mp4
+#EXTINF:-1 group-title="FILMES | DRAMA E ROMANCE",Uma Longa Jornada (2015)
+http://srvcliente.me:80/movie/warwick/123456/1347.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Uma Mensagem Através do Tempo (2019)
+http://srvcliente.me:80/movie/warwick/123456/26630.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 70 & 80",Uma Noite Alucinante 1: A Morte do Demônio (1981)
+http://srvcliente.me:80/movie/warwick/123456/23718.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 70 & 80",Uma Noite Alucinante 2 (1987)
+http://srvcliente.me:80/movie/warwick/123456/23719.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 70 & 80",Uma Noite Alucinante 3 (1989)
+http://srvcliente.me:80/movie/warwick/123456/23720.mp4
+#EXTINF:-1 group-title="FILMES | TERROR E SUSPENSE",Uma Noite de Crime 1 (2013)
+http://srvcliente.me:80/movie/warwick/123456/2598.mp4
+#EXTINF:-1 group-title="FILMES | TERROR E SUSPENSE",Uma Noite de Crime 2: Anarquia (2014)
+http://srvcliente.me:80/movie/warwick/123456/2599.mp4
+#EXTINF:-1 group-title="FILMES | TERROR E SUSPENSE",Uma Noite de Crime 4: A Primeira Noite de Crime (2018)
+http://srvcliente.me:80/movie/warwick/123456/1377.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Uma Noite Infernal (2019)
+http://srvcliente.me:80/movie/warwick/123456/758.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 90",Uma Noite Mágica (1998)
+http://srvcliente.me:80/movie/warwick/123456/1730.mp4
+#EXTINF:-1 group-title="FILMES | FANTASIA",Uma Noite no Museu 1 (2006)
+http://srvcliente.me:80/movie/warwick/123456/1046.mp4
+#EXTINF:-1 group-title="FILMES | FANTASIA",Uma Noite no Museu 2 (2009)
+http://srvcliente.me:80/movie/warwick/123456/1047.mp4
+#EXTINF:-1 group-title="FILMES | FANTASIA",Uma Noite no Museu 3 - O Segredo da Tumba (2015)
+http://srvcliente.me:80/movie/warwick/123456/1048.mp4
+#EXTINF:-1 group-title="FILMES | COMÉDIA",Uma Noiva em Apuros (2018)
+http://srvcliente.me:80/movie/warwick/123456/2395.mp4
+#EXTINF:-1 group-title="FILMES | FAROESTE",Uma Segunda Chance (2013)
+http://srvcliente.me:80/movie/warwick/123456/1133.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Uma Segunda Chance Para Amar (2019)
+http://srvcliente.me:80/movie/warwick/123456/759.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Uma Segunda Chance: Rivais! (2019)
+http://srvcliente.me:80/movie/warwick/123456/760.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Uma Vida Oculta (2019)
+http://srvcliente.me:80/movie/warwick/123456/761.mp4
+#EXTINF:-1 group-title="SAGA | DISNEY",Universidade Monstros (2013)
+http://srvcliente.me:80/movie/warwick/123456/1843.mp4
+#EXTINF:-1 group-title="FILMES | INFANTIS / ANIMAÇÃO",Up: Altas Aventuras (2009)
+http://srvcliente.me:80/movie/warwick/123456/1273.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Vai que Cola 2: O Começo (2019)
+http://srvcliente.me:80/movie/warwick/123456/766.mkv
+#EXTINF:-1 group-title="SAGA | DISNEY",Valente (2012)
+http://srvcliente.me:80/movie/warwick/123456/1844.mp4
+#EXTINF:-1 group-title="FILMES | AÇÃO E AVENTURA",Valerian e a Cidade dos Mil Planetas (2017)
+http://srvcliente.me:80/movie/warwick/123456/2398.mp4
+#EXTINF:-1 group-title="FILMES | TERROR E SUSPENSE",Vampiros de John Carpenter (1998)
+http://srvcliente.me:80/movie/warwick/123456/2600.mp4
+#EXTINF:-1 group-title="FILMES | TERROR E SUSPENSE",Vampiros: Os mortos (2002)
+http://srvcliente.me:80/movie/warwick/123456/2601.mp4
+#EXTINF:-1 group-title="FILMES | AÇÃO E AVENTURA",Van Helsing: O Caçador de Monstros (2004)
+http://srvcliente.me:80/movie/warwick/123456/2399.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 90",Velocidade Máxima (1994)
+http://srvcliente.me:80/movie/warwick/123456/1735.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",Velozes e Furiosos 1 (2001)
+http://srvcliente.me:80/movie/warwick/123456/2400.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",Velozes e Furiosos 2 (2003)
+http://srvcliente.me:80/movie/warwick/123456/2401.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",Velozes e Furiosos 3 (2006)
+http://srvcliente.me:80/movie/warwick/123456/2402.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",Velozes e Furiosos 4 (2009)
+http://srvcliente.me:80/movie/warwick/123456/2403.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",Velozes e Furiosos 5 - Operação Rio (2011)
+http://srvcliente.me:80/movie/warwick/123456/2404.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",Velozes e Furiosos 6 (2013)
+http://srvcliente.me:80/movie/warwick/123456/2405.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",Velozes e Furiosos 7 (2015)
+http://srvcliente.me:80/movie/warwick/123456/2406.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",Velozes e Furiosos 8 (2017)
+http://srvcliente.me:80/movie/warwick/123456/2407.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Velozes e Furiosos: Hobbs & Shaw (2019)
+http://srvcliente.me:80/movie/warwick/123456/767.mp4
+#EXTINF:-1 group-title="FILMES | FAROESTE",Vera Cruz (1954)
+http://srvcliente.me:80/movie/warwick/123456/1134.mp4
+#EXTINF:-1 group-title="FILMES | AÇÃO E AVENTURA",Viagem ao Centro da Terra: O Filme (2008)
+http://srvcliente.me:80/movie/warwick/123456/889.mp4
+#EXTINF:-1 group-title="FILMES | ANOS 70 & 80",Viagem Insólita (1987)
+http://srvcliente.me:80/movie/warwick/123456/1606.mp4
+#EXTINF:-1 group-title="SAGA | DISNEY",Vida de Inseto (1998)
+http://srvcliente.me:80/movie/warwick/123456/1845.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Vida Dupla (2019)
+http://srvcliente.me:80/movie/warwick/123456/768.mp4
+#EXTINF:-1 group-title="FILMES | DRAMA E ROMANCE",Vida Selvagem (2018)
+http://srvcliente.me:80/movie/warwick/123456/2100.mp4
+#EXTINF:-1 group-title="FILMES | AÇÃO E AVENTURA",Vidas à Deriva (2018)
+http://srvcliente.me:80/movie/warwick/123456/890.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Vidro (2019)
+http://srvcliente.me:80/movie/warwick/123456/1101.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Vingadores: Ultimato (2019)
+http://srvcliente.me:80/movie/warwick/123456/1102.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Vingadores: Ultimato ULTRA HD (2019)
+http://srvcliente.me:80/movie/warwick/123456/1103.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Vingança FM (2019)
+http://srvcliente.me:80/movie/warwick/123456/769.mp4
+#EXTINF:-1 group-title="FILMES | FAROESTE",Vingança Mesmo Que Tardia (2015)
+http://srvcliente.me:80/movie/warwick/123456/1135.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Vingança à Sangue Frio (2019)
+http://srvcliente.me:80/movie/warwick/123456/1104.mp4
+#EXTINF:-1 group-title="SAGA | DISNEY",Viva - A Vida é uma Festa (2017)
+http://srvcliente.me:80/movie/warwick/123456/1846.mp4
+#EXTINF:-1 group-title="FILMES | INFANTIS / ANIMAÇÃO",Viva - A Vida é uma Festa (2017)
+http://srvcliente.me:80/movie/warwick/123456/1275.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2020",Viveiro (2020)
+http://srvcliente.me:80/movie/warwick/123456/23391.mp4
+#EXTINF:-1 group-title="FILMES | COMÉDIA",Vizinhos 1 (2014)
+http://srvcliente.me:80/movie/warwick/123456/968.mp4
+#EXTINF:-1 group-title="FILMES | COMÉDIA",Vizinhos 2 (2016)
+http://srvcliente.me:80/movie/warwick/123456/969.mp4
+#EXTINF:-1 group-title="FILMES | INFANTIS / ANIMAÇÃO",Voando Alto (2019)
+http://srvcliente.me:80/movie/warwick/123456/1958.mp4
+#EXTINF:-1 group-title="FILMES | RELIGIOSOS",Você Acredita? (2015)
+http://srvcliente.me:80/movie/warwick/123456/20032.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2020",Você Nem Imagina (2020)
+http://srvcliente.me:80/movie/warwick/123456/770.mp4
+#EXTINF:-1 group-title="FILMES | FANTASIA",Warcraft - O Primeiro Encontro de Dois Mundos (2016)
+http://srvcliente.me:80/movie/warwick/123456/1050.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2020",Wasp Network: Rede de Espiões (2020)
+http://srvcliente.me:80/movie/warwick/123456/24684.mp4
+#EXTINF:-1 group-title="FILMES | COMÉDIA",Whindersson Nunes em Proparoxítona (2017)
+http://srvcliente.me:80/movie/warwick/123456/2067.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",Whindersson Nunes: Adulto (2019)
+http://srvcliente.me:80/movie/warwick/123456/1105.mp4
+#EXTINF:-1 group-title="FILMES | INFANTIS / ANIMAÇÃO",WiFi Ralph: Quebrando a Internet (2018)
+http://srvcliente.me:80/movie/warwick/123456/1276.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",X-Men 1: O Filme (2000)
+http://srvcliente.me:80/movie/warwick/123456/1926.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",X-Men 2 (2003)
+http://srvcliente.me:80/movie/warwick/123456/1922.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",X-Men 3: O Confronto Final (2006)
+http://srvcliente.me:80/movie/warwick/123456/1923.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",X-Men 4: Origens - Wolverine (2009)
+http://srvcliente.me:80/movie/warwick/123456/1927.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",X-Men 5: Primeira Classe (2011)
+http://srvcliente.me:80/movie/warwick/123456/1928.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",X-Men 7: Dias de um Futuro Esquecido (2014)
+http://srvcliente.me:80/movie/warwick/123456/1925.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",X-Men 8: Apocalipse (2016)
+http://srvcliente.me:80/movie/warwick/123456/1924.mp4
+#EXTINF:-1 group-title="FILMES | SAGAS E TRILOGIAS",X-Men 9: Logan (2017)
+http://srvcliente.me:80/movie/warwick/123456/2258.mp4
+#EXTINF:-1 group-title="LANÇAMENTOS HD 2019",X-Men: Fênix Negra (2019)
+http://srvcliente.me:80/movie/warwick/123456/1106.mp4
+#EXTINF:-1 group-title="FILMES | ADULTOS",XXX  A Maior Orgia do Brasil - Parte 01
+http://srvcliente.me:80/movie/warwick/123456/1469.mp4
+#EXTINF:-1 group-title="FILMES | ADULTOS",XXX A Maior Orgia do Brasil - Parte 02
+http://srvcliente.me:80/movie/warwick/123456/1470.mp4
+#EXTINF:-1 group-title="FILMES | ADULTOS",XXX As Panteras - A Diarista - Parte 01
+http://srvcliente.me:80/movie/warwick/123456/1471.mp4
+#EXTINF:-1 group-title="FILMES | ADULTOS",XXX As Panteras - A Diarista - Parte 02
+http://srvcliente.me:80/movie/warwick/123456/1472.mp4
+#EXTINF:-1 group-title="FILMES | ADULTOS",XXX As Panteras - A Diarista - Parte 03
+http://srvcliente.me:80/movie/warwick/123456/1473.mp4
+#EXTINF:-1 group-title="FILMES | ADULTOS",XXX As Panteras - A Diarista - Parte 04
+http://srvcliente.me:80/movie/warwick/123456/1474.mp4
+#EXTINF:-1 group-title="FILMES | ADULTOS",XXX As Panteras - A Psicologa
+http://srvcliente.me:80/movie/warwick/123456/1475.mp4
+#EXTINF:-1 group-title="FILMES | ADULTOS",XXX As Panteras - Louco Desejo da Sobrinha
+http://srvcliente.me:80/movie/warwick/123456/1476.mp4
+#EXTINF:-1 group-title="FILMES | ADULTOS",XXX As Panteras - Naufragas
+http://srvcliente.me:80/movie/warwick/123456/1477.mp4
+#EXTINF:-1 group-title="FILMES | ADULTOS",XXX As Panteras - Sequestro Por Amor
+http://srvcliente.me:80/movie/warwick/123456/1478.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S01 E03
+http://srvcliente.me:80/series/warwick/123456/6201.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S01 E04
+http://srvcliente.me:80/series/warwick/123456/6202.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S01 E05
+http://srvcliente.me:80/series/warwick/123456/6203.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S01 E06
+http://srvcliente.me:80/series/warwick/123456/6204.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S01 E07
+http://srvcliente.me:80/series/warwick/123456/6205.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S01 E08
+http://srvcliente.me:80/series/warwick/123456/6206.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S01 E09
+http://srvcliente.me:80/series/warwick/123456/6207.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S01 E10
+http://srvcliente.me:80/series/warwick/123456/6208.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S01 E11
+http://srvcliente.me:80/series/warwick/123456/6209.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S01 E12
+http://srvcliente.me:80/series/warwick/123456/6210.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S02 E01
+http://srvcliente.me:80/series/warwick/123456/6211.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S02 E02
+http://srvcliente.me:80/series/warwick/123456/6212.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S02 E03
+http://srvcliente.me:80/series/warwick/123456/6213.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S02 E04
+http://srvcliente.me:80/series/warwick/123456/6214.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S02 E05
+http://srvcliente.me:80/series/warwick/123456/6215.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S02 E06
+http://srvcliente.me:80/series/warwick/123456/6216.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S02 E07
+http://srvcliente.me:80/series/warwick/123456/6217.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S02 E08
+http://srvcliente.me:80/series/warwick/123456/6218.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S02 E09
+http://srvcliente.me:80/series/warwick/123456/6219.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S02 E10
+http://srvcliente.me:80/series/warwick/123456/6220.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S02 E11
+http://srvcliente.me:80/series/warwick/123456/6221.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S02 E12
+http://srvcliente.me:80/series/warwick/123456/6222.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S02 E13
+http://srvcliente.me:80/series/warwick/123456/6223.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S02 E14
+http://srvcliente.me:80/series/warwick/123456/6224.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S02 E15
+http://srvcliente.me:80/series/warwick/123456/6225.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S02 E16
+http://srvcliente.me:80/series/warwick/123456/6226.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S02 E17
+http://srvcliente.me:80/series/warwick/123456/6227.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S02 E18
+http://srvcliente.me:80/series/warwick/123456/6228.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S04 E01
+http://srvcliente.me:80/series/warwick/123456/6229.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S04 E02
+http://srvcliente.me:80/series/warwick/123456/6230.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S04 E03
+http://srvcliente.me:80/series/warwick/123456/6231.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S04 E04
+http://srvcliente.me:80/series/warwick/123456/6232.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S04 E05
+http://srvcliente.me:80/series/warwick/123456/6233.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S04 E06
+http://srvcliente.me:80/series/warwick/123456/6234.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S04 E07
+http://srvcliente.me:80/series/warwick/123456/6235.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S04 E08
+http://srvcliente.me:80/series/warwick/123456/6236.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S04 E09
+http://srvcliente.me:80/series/warwick/123456/6237.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S04 E10
+http://srvcliente.me:80/series/warwick/123456/6238.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S04 E11
+http://srvcliente.me:80/series/warwick/123456/6239.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S04 E12
+http://srvcliente.me:80/series/warwick/123456/6240.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S04 E13
+http://srvcliente.me:80/series/warwick/123456/6241.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S04 E14
+http://srvcliente.me:80/series/warwick/123456/6242.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S04 E15
+http://srvcliente.me:80/series/warwick/123456/6243.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S04 E16
+http://srvcliente.me:80/series/warwick/123456/6244.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S04 E17
+http://srvcliente.me:80/series/warwick/123456/6245.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S04 E18
+http://srvcliente.me:80/series/warwick/123456/6246.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S05 E01
+http://srvcliente.me:80/series/warwick/123456/23898.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S05 E02
+http://srvcliente.me:80/series/warwick/123456/23899.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S05 E03
+http://srvcliente.me:80/series/warwick/123456/23900.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S05 E04
+http://srvcliente.me:80/series/warwick/123456/23901.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S05 E05
+http://srvcliente.me:80/series/warwick/123456/23902.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S05 E06
+http://srvcliente.me:80/series/warwick/123456/23903.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S05 E07
+http://srvcliente.me:80/series/warwick/123456/23904.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S05 E08
+http://srvcliente.me:80/series/warwick/123456/23905.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S05 E09
+http://srvcliente.me:80/series/warwick/123456/23906.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S05 E10
+http://srvcliente.me:80/series/warwick/123456/23907.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S05 E11
+http://srvcliente.me:80/series/warwick/123456/23908.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S05 E12
+http://srvcliente.me:80/series/warwick/123456/23909.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S05 E13
+http://srvcliente.me:80/series/warwick/123456/23910.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S05 E14
+http://srvcliente.me:80/series/warwick/123456/23911.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S05 E15
+http://srvcliente.me:80/series/warwick/123456/23912.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S05 E16
+http://srvcliente.me:80/series/warwick/123456/23913.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S05 E17
+http://srvcliente.me:80/series/warwick/123456/23914.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S05 E18
+http://srvcliente.me:80/series/warwick/123456/23915.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S06 E01
+http://srvcliente.me:80/series/warwick/123456/6247.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S06 E02
+http://srvcliente.me:80/series/warwick/123456/6248.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S06 E03
+http://srvcliente.me:80/series/warwick/123456/6249.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S06 E04
+http://srvcliente.me:80/series/warwick/123456/6250.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S06 E05
+http://srvcliente.me:80/series/warwick/123456/6251.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S06 E06
+http://srvcliente.me:80/series/warwick/123456/6252.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S06 E07
+http://srvcliente.me:80/series/warwick/123456/6253.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S06 E08
+http://srvcliente.me:80/series/warwick/123456/6254.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S06 E09
+http://srvcliente.me:80/series/warwick/123456/6255.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S06 E10
+http://srvcliente.me:80/series/warwick/123456/6256.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S06 E11
+http://srvcliente.me:80/series/warwick/123456/6257.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S06 E12
+http://srvcliente.me:80/series/warwick/123456/6258.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S06 E13
+http://srvcliente.me:80/series/warwick/123456/6259.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S06 E14
+http://srvcliente.me:80/series/warwick/123456/6260.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S06 E15
+http://srvcliente.me:80/series/warwick/123456/6261.mp4
+#EXTINF:-1 group-title="S | EMPIRE",Empire: Fama e Poder S06 E16
+http://srvcliente.me:80/series/warwick/123456/6262.mp4
+#EXTINF:-1 group-title="S | EM DEFESA DE JACOB",Em Defesa de Jacob S01 E01
+http://srvcliente.me:80/series/warwick/123456/6442.mp4
+#EXTINF:-1 group-title="S | EM DEFESA DE JACOB",Em Defesa de Jacob S01 E02
+http://srvcliente.me:80/series/warwick/123456/6443.mp4
+#EXTINF:-1 group-title="S | EM DEFESA DE JACOB",Em Defesa de Jacob S01 E03
+http://srvcliente.me:80/series/warwick/123456/6444.mp4
+#EXTINF:-1 group-title="S | EM DEFESA DE JACOB",Em Defesa de Jacob S01 E04
+http://srvcliente.me:80/series/warwick/123456/6445.mp4
+#EXTINF:-1 group-title="S | EM DEFESA DE JACOB",Em Defesa de Jacob S01 E05
+http://srvcliente.me:80/series/warwick/123456/6446.mp4
+#EXTINF:-1 group-title="S | EM DEFESA DE JACOB",Em Defesa de Jacob S01 E06
+http://srvcliente.me:80/series/warwick/123456/6447.mp4
+#EXTINF:-1 group-title="S | EM DEFESA DE JACOB",Em Defesa de Jacob S01 E07
+http://srvcliente.me:80/series/warwick/123456/6448.mp4
+#EXTINF:-1 group-title="S | EM DEFESA DE JACOB",Em Defesa de Jacob S01 E08
+http://srvcliente.me:80/series/warwick/123456/6449.mp4
+#EXTINF:-1 group-title="S | FEAR THE WALKING DEAD",Fear the Walking Dead S01 E01
+http://srvcliente.me:80/series/warwick/123456/6450.mp4
+#EXTINF:-1 group-title="S | FEAR THE WALKING DEAD",Fear the Walking Dead S01 E02
+http://srvcliente.me:80/series/warwick/123456/6451.mp4
+#EXTINF:-1 group-title="S | FEAR THE WALKING DEAD",Fear the Walking Dead S01 E03
+http://srvcliente.me:80/series/warwick/123456/6452.mp4
+#EXTINF:-1 group-title="S | FEAR THE WALKING DEAD",Fear the Walking Dead S01 E04
+http://srvcliente.me:80/series/warwick/123456/6453.mp4
+#EXTINF:-1 group-title="S | FEAR THE WALKING DEAD",Fear the Walking Dead S01 E05
+http://srvcliente.me:80/series/warwick/123456/6454.mp4
+#EXTINF:-1 group-title="S | FEAR THE WALKING DEAD",Fear the Walking Dead S01 E06
+http://srvcliente.me:80/series/warwick/123456/6455.mp4
+#EXTINF:-1 group-title="S | FEAR THE WALKING DEAD",Fear the Walking Dead S02 E04
+http://srvcliente.me:80/series/warwick/123456/6459.mp4
+#EXTINF:-1 group-title="S | FEAR THE WALKING DEAD",Fear the Walking Dead S02 E10
+http://srvcliente.me:80/series/warwick/123456/6465.mp4
+#EXTINF:-1 group-title="S | FEAR THE WALKING DEAD",Fear the Walking Dead S02 E11
+http://srvcliente.me:80/series/warwick/123456/6466.mp4
+#EXTINF:-1 group-title="S | FEAR THE WALKING DEAD",Fear the Walking Dead S02 E12
+http://srvcliente.me:80/series/warwick/123456/6467.mp4
+#EXTINF:-1 group-title="S | FEAR THE WALKING DEAD",Fear the Walking Dead S05 E01
+http://srvcliente.me:80/series/warwick/123456/6503.mp4
+#EXTINF:-1 group-title="S | FEAR THE WALKING DEAD",Fear the Walking Dead S05 E02
+http://srvcliente.me:80/series/warwick/123456/6504.mp4
+#EXTINF:-1 group-title="S | FEAR THE WALKING DEAD",Fear the Walking Dead S05 E03
+http://srvcliente.me:80/series/warwick/123456/6505.mp4
+#EXTINF:-1 group-title="S | FEAR THE WALKING DEAD",Fear the Walking Dead S05 E04
+http://srvcliente.me:80/series/warwick/123456/6506.mp4
+#EXTINF:-1 group-title="S | FEAR THE WALKING DEAD",Fear the Walking Dead S05 E05
+http://srvcliente.me:80/series/warwick/123456/6507.mp4
+#EXTINF:-1 group-title="S | FEAR THE WALKING DEAD",Fear the Walking Dead S05 E06
+http://srvcliente.me:80/series/warwick/123456/6508.mp4
+#EXTINF:-1 group-title="S | FEAR THE WALKING DEAD",Fear the Walking Dead S05 E07
+http://srvcliente.me:80/series/warwick/123456/6509.mp4
+#EXTINF:-1 group-title="S | FEAR THE WALKING DEAD",Fear the Walking Dead S05 E08
+http://srvcliente.me:80/series/warwick/123456/6510.mp4
+#EXTINF:-1 group-title="S | FEAR THE WALKING DEAD",Fear the Walking Dead S05 E09
+http://srvcliente.me:80/series/warwick/123456/6511.mp4
+#EXTINF:-1 group-title="S | FEAR THE WALKING DEAD",Fear the Walking Dead S05 E10
+http://srvcliente.me:80/series/warwick/123456/6512.mp4
+#EXTINF:-1 group-title="S | FEAR THE WALKING DEAD",Fear the Walking Dead S05 E11
+http://srvcliente.me:80/series/warwick/123456/6513.mp4
+#EXTINF:-1 group-title="S | FEAR THE WALKING DEAD",Fear the Walking Dead S05 E12
+http://srvcliente.me:80/series/warwick/123456/6514.mp4
+#EXTINF:-1 group-title="S | FEAR THE WALKING DEAD",Fear the Walking Dead S05 E13
+http://srvcliente.me:80/series/warwick/123456/6515.mp4
+#EXTINF:-1 group-title="S | FEAR THE WALKING DEAD",Fear the Walking Dead S05 E14
+http://srvcliente.me:80/series/warwick/123456/6516.mp4
+#EXTINF:-1 group-title="S | FEAR THE WALKING DEAD",Fear the Walking Dead S05 E15
+http://srvcliente.me:80/series/warwick/123456/6517.mp4
+#EXTINF:-1 group-title="S | FEAR THE WALKING DEAD",Fear the Walking Dead S05 E16
+http://srvcliente.me:80/series/warwick/123456/6518.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S01 E01
+http://srvcliente.me:80/series/warwick/123456/6528.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S01 E02
+http://srvcliente.me:80/series/warwick/123456/6519.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S01 E03
+http://srvcliente.me:80/series/warwick/123456/6520.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S01 E04
+http://srvcliente.me:80/series/warwick/123456/6526.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S01 E05
+http://srvcliente.me:80/series/warwick/123456/6521.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S01 E06
+http://srvcliente.me:80/series/warwick/123456/6522.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S01 E07
+http://srvcliente.me:80/series/warwick/123456/6523.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S01 E08
+http://srvcliente.me:80/series/warwick/123456/6524.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S01 E09
+http://srvcliente.me:80/series/warwick/123456/6525.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S01 E10
+http://srvcliente.me:80/series/warwick/123456/6527.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S02 E01
+http://srvcliente.me:80/series/warwick/123456/6529.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S02 E02
+http://srvcliente.me:80/series/warwick/123456/6530.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S02 E03
+http://srvcliente.me:80/series/warwick/123456/6531.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S02 E04
+http://srvcliente.me:80/series/warwick/123456/6532.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S02 E05
+http://srvcliente.me:80/series/warwick/123456/6533.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S02 E06
+http://srvcliente.me:80/series/warwick/123456/6534.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S02 E07
+http://srvcliente.me:80/series/warwick/123456/6535.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S02 E08
+http://srvcliente.me:80/series/warwick/123456/6536.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S02 E09
+http://srvcliente.me:80/series/warwick/123456/6537.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S02 E10
+http://srvcliente.me:80/series/warwick/123456/6538.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S02 E11
+http://srvcliente.me:80/series/warwick/123456/6539.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S02 E12
+http://srvcliente.me:80/series/warwick/123456/6540.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S02 E13
+http://srvcliente.me:80/series/warwick/123456/6541.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S02 E14
+http://srvcliente.me:80/series/warwick/123456/6542.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S02 E15
+http://srvcliente.me:80/series/warwick/123456/6543.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S02 E16
+http://srvcliente.me:80/series/warwick/123456/6544.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S03 E01
+http://srvcliente.me:80/series/warwick/123456/6545.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S03 E02
+http://srvcliente.me:80/series/warwick/123456/6546.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S03 E03
+http://srvcliente.me:80/series/warwick/123456/6547.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S03 E04
+http://srvcliente.me:80/series/warwick/123456/6548.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S03 E05
+http://srvcliente.me:80/series/warwick/123456/6549.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S03 E06
+http://srvcliente.me:80/series/warwick/123456/6550.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S03 E07
+http://srvcliente.me:80/series/warwick/123456/6551.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S03 E08
+http://srvcliente.me:80/series/warwick/123456/6552.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S03 E09
+http://srvcliente.me:80/series/warwick/123456/6553.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S03 E10
+http://srvcliente.me:80/series/warwick/123456/6554.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S03 E11
+http://srvcliente.me:80/series/warwick/123456/6555.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S03 E12
+http://srvcliente.me:80/series/warwick/123456/6556.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S03 E13
+http://srvcliente.me:80/series/warwick/123456/6557.mkv
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S03 E14
+http://srvcliente.me:80/series/warwick/123456/6558.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S03 E15
+http://srvcliente.me:80/series/warwick/123456/6559.mkv
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S03 E16
+http://srvcliente.me:80/series/warwick/123456/6560.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S04 E01
+http://srvcliente.me:80/series/warwick/123456/6561.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S04 E02
+http://srvcliente.me:80/series/warwick/123456/6562.mkv
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S04 E03
+http://srvcliente.me:80/series/warwick/123456/6563.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S04 E04
+http://srvcliente.me:80/series/warwick/123456/6564.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S04 E05
+http://srvcliente.me:80/series/warwick/123456/6565.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S04 E06
+http://srvcliente.me:80/series/warwick/123456/6566.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S04 E07
+http://srvcliente.me:80/series/warwick/123456/6567.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S04 E08
+http://srvcliente.me:80/series/warwick/123456/6568.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S04 E09
+http://srvcliente.me:80/series/warwick/123456/6569.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S04 E10
+http://srvcliente.me:80/series/warwick/123456/6570.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S04 E11
+http://srvcliente.me:80/series/warwick/123456/6571.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S04 E12
+http://srvcliente.me:80/series/warwick/123456/6572.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S04 E13
+http://srvcliente.me:80/series/warwick/123456/6573.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S04 E14
+http://srvcliente.me:80/series/warwick/123456/6574.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S04 E15
+http://srvcliente.me:80/series/warwick/123456/6575.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S04 E16
+http://srvcliente.me:80/series/warwick/123456/6576.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S04 E17
+http://srvcliente.me:80/series/warwick/123456/6577.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S04 E18
+http://srvcliente.me:80/series/warwick/123456/6578.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S05 E01
+http://srvcliente.me:80/series/warwick/123456/6579.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S05 E02
+http://srvcliente.me:80/series/warwick/123456/6581.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S05 E03
+http://srvcliente.me:80/series/warwick/123456/6582.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S05 E04
+http://srvcliente.me:80/series/warwick/123456/6583.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S05 E05
+http://srvcliente.me:80/series/warwick/123456/6584.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S05 E06
+http://srvcliente.me:80/series/warwick/123456/6585.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S05 E07
+http://srvcliente.me:80/series/warwick/123456/6586.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S05 E08
+http://srvcliente.me:80/series/warwick/123456/6580.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S05 E09
+http://srvcliente.me:80/series/warwick/123456/6587.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S05 E10
+http://srvcliente.me:80/series/warwick/123456/6588.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S05 E11
+http://srvcliente.me:80/series/warwick/123456/6589.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S05 E12
+http://srvcliente.me:80/series/warwick/123456/6590.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S05 E13
+http://srvcliente.me:80/series/warwick/123456/6591.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S05 E14
+http://srvcliente.me:80/series/warwick/123456/6592.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S05 E15
+http://srvcliente.me:80/series/warwick/123456/6593.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S05 E16
+http://srvcliente.me:80/series/warwick/123456/6594.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S05 E17
+http://srvcliente.me:80/series/warwick/123456/6595.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S05 E18
+http://srvcliente.me:80/series/warwick/123456/6596.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S05 E19
+http://srvcliente.me:80/series/warwick/123456/6597.mp4
+#EXTINF:-1 group-title="S | FEBRE DE OURO",Febre do Ouro S05 E20
+http://srvcliente.me:80/series/warwick/123456/6598.mp4
+#EXTINF:-1 group-title="S | FREUD",Freud S01 E01
+http://srvcliente.me:80/series/warwick/123456/6599.mp4
+#EXTINF:-1 group-title="S | FREUD",Freud S01 E02
+http://srvcliente.me:80/series/warwick/123456/6600.mp4
+#EXTINF:-1 group-title="S | FREUD",Freud S01 E03
+http://srvcliente.me:80/series/warwick/123456/6601.mp4
+#EXTINF:-1 group-title="S | FREUD",Freud S01 E04
+http://srvcliente.me:80/series/warwick/123456/6602.mp4
+#EXTINF:-1 group-title="S | FREUD",Freud S01 E05
+http://srvcliente.me:80/series/warwick/123456/6603.mp4
+#EXTINF:-1 group-title="S | FREUD",Freud S01 E06
+http://srvcliente.me:80/series/warwick/123456/6604.mp4
+#EXTINF:-1 group-title="S | FREUD",Freud S01 E07
+http://srvcliente.me:80/series/warwick/123456/6605.mp4
+#EXTINF:-1 group-title="S | FREUD",Freud S01 E08
+http://srvcliente.me:80/series/warwick/123456/6606.mp4
+#EXTINF:-1 group-title="S | FRIENDS",Friends S01 E01
+http://srvcliente.me:80/series/warwick/123456/6698.mp4
+#EXTINF:-1 group-title="S | FRIENDS",Friends S01 E02
+http://srvcliente.me:80/series/warwick/123456/6699.mp4
+#EXTINF:-1 group-title="S | FRIENDS",Friends S01 E03
+http://srvcliente.me:80/series/warwick/123456/6700.mp4
+#EXTINF:-1 group-title="S | FRIENDS",Friends S01 E04
+http://srvcliente.me:80/series/warwick/123456/6701.mp4
+#EXTINF:-1 group-title="S | FRIENDS",Friends S01 E05
+http://srvcliente.me:80/series/warwick/123456/6702.mp4
+#EXTINF:-1 group-title="S | FRIENDS",Friends S01 E06
+http://srvcliente.me:80/series/warwick/123456/6703.mp4
+#EXTINF:-1 group-title="S | FRIENDS",Friends S01 E07
+http://srvcliente.me:80/series/warwick/123456/6704.mp4
+#EXTINF:-1 group-title="S | FRIENDS",Friends S01 E08
+http://srvcliente.me:80/series/warwick/123456/6705.mp4
+#EXTINF:-1 group-title="S | FRIENDS",Friends S01 E09
+http://srvcliente.me:80/series/warwick/123456/6706.mp4
+#EXTINF:-1 group-title="S | FRIENDS",Friends S01 E10
+http://srvcliente.me:80/series/warwick/123456/6707.mp4
+#EXTINF:-1 group-title="S | FRIENDS",Friends S01 E11
+http://srvcliente.me:80/series/warwick/123456/6708.mp4
+#EXTINF:-1 group-title="S | FRIENDS",Friends S01 E12
+http://srvcliente.me:80/series/warwick/123456/6709.mp4
+#EXTINF:-1 group-title="S | FRIENDS",Friends S01 E13
+http://srvcliente.me:80/series/warwick/123456/6710.mp4
+#EXTINF:-1 group-title="S | FRIENDS",Friends S01 E14
+http://srvcliente.me:80/series/warwick/123456/6711.mp4
+#EXTINF:-1 group-title="S | FRIENDS",Friends S01 E15
+http://srvcliente.me:80/series/warwick/123456/6712.mp4
+#EXTINF:-1 group-title="S | FRIENDS",Friends S01 E16
+http://srvcliente.me:80/series/warwick/123456/6713.mp4
+#EXTINF:-1 group-title="S | FRIENDS",Friends S01 E17
+http://srvcliente.me:80/series/warwick/123456/6714.mp4
+#EXTINF:-1 group-title="S | FRIENDS",Friends S01 E18
+http://srvcliente.me:80/series/warwick/123456/6715.mp4
+#EXTINF:-1 group-title="S | FRIENDS",Friends S01 E19
+http://srvcliente.me:80/series/warwick/123456/6716.mp4
+#EXTINF:-1 group-title="S | FRIENDS",Friends S01 E20
+http://srvcliente.me:80/series/warwick/123456/6717.mp4
+#EXTINF:-1 group-title="S | FRIENDS",Friends S01 E21
+http://srvcliente.me:80/series/warwick/123456/6718.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S01 E01
+http://srvcliente.me:80/series/warwick/123456/12614.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S01 E02
+http://srvcliente.me:80/series/warwick/123456/12615.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S01 E03
+http://srvcliente.me:80/series/warwick/123456/12616.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S01 E04
+http://srvcliente.me:80/series/warwick/123456/12617.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S01 E05
+http://srvcliente.me:80/series/warwick/123456/12618.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S01 E06
+http://srvcliente.me:80/series/warwick/123456/12619.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S01 E07
+http://srvcliente.me:80/series/warwick/123456/12620.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S01 E08
+http://srvcliente.me:80/series/warwick/123456/12621.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S01 E09
+http://srvcliente.me:80/series/warwick/123456/12622.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S01 E10
+http://srvcliente.me:80/series/warwick/123456/12623.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S01 E11
+http://srvcliente.me:80/series/warwick/123456/12624.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S01 E12
+http://srvcliente.me:80/series/warwick/123456/12625.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S01 E13
+http://srvcliente.me:80/series/warwick/123456/12626.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S01 E14
+http://srvcliente.me:80/series/warwick/123456/12627.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S01 E15
+http://srvcliente.me:80/series/warwick/123456/12628.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S01 E16
+http://srvcliente.me:80/series/warwick/123456/12629.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S02 E01
+http://srvcliente.me:80/series/warwick/123456/12630.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S02 E02
+http://srvcliente.me:80/series/warwick/123456/12631.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S02 E03
+http://srvcliente.me:80/series/warwick/123456/12632.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S02 E04
+http://srvcliente.me:80/series/warwick/123456/12633.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S02 E05
+http://srvcliente.me:80/series/warwick/123456/12634.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S02 E06
+http://srvcliente.me:80/series/warwick/123456/12635.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S02 E07
+http://srvcliente.me:80/series/warwick/123456/12636.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S02 E08
+http://srvcliente.me:80/series/warwick/123456/12637.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S02 E09
+http://srvcliente.me:80/series/warwick/123456/12638.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S02 E10
+http://srvcliente.me:80/series/warwick/123456/12639.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S02 E11
+http://srvcliente.me:80/series/warwick/123456/12640.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S02 E12
+http://srvcliente.me:80/series/warwick/123456/12641.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S02 E13
+http://srvcliente.me:80/series/warwick/123456/12642.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S03 E07
+http://srvcliente.me:80/series/warwick/123456/12649.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S03 E11
+http://srvcliente.me:80/series/warwick/123456/12653.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S04 E01
+http://srvcliente.me:80/series/warwick/123456/12656.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S04 E02
+http://srvcliente.me:80/series/warwick/123456/12657.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S04 E03
+http://srvcliente.me:80/series/warwick/123456/12658.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S04 E04
+http://srvcliente.me:80/series/warwick/123456/12659.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S04 E05
+http://srvcliente.me:80/series/warwick/123456/12660.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S04 E06
+http://srvcliente.me:80/series/warwick/123456/12661.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S04 E07
+http://srvcliente.me:80/series/warwick/123456/12662.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S04 E08
+http://srvcliente.me:80/series/warwick/123456/12663.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S04 E09
+http://srvcliente.me:80/series/warwick/123456/12664.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S04 E10
+http://srvcliente.me:80/series/warwick/123456/12665.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S04 E11
+http://srvcliente.me:80/series/warwick/123456/12666.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S04 E12
+http://srvcliente.me:80/series/warwick/123456/12667.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S04 E13
+http://srvcliente.me:80/series/warwick/123456/12668.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S05 E01
+http://srvcliente.me:80/series/warwick/123456/12677.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S05 E02
+http://srvcliente.me:80/series/warwick/123456/12678.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S05 E03
+http://srvcliente.me:80/series/warwick/123456/12679.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S05 E04
+http://srvcliente.me:80/series/warwick/123456/12669.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S05 E05
+http://srvcliente.me:80/series/warwick/123456/12670.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S05 E06
+http://srvcliente.me:80/series/warwick/123456/12671.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S05 E07
+http://srvcliente.me:80/series/warwick/123456/12672.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S05 E08
+http://srvcliente.me:80/series/warwick/123456/12673.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S05 E09
+http://srvcliente.me:80/series/warwick/123456/12674.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S05 E10
+http://srvcliente.me:80/series/warwick/123456/12675.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S05 E11
+http://srvcliente.me:80/series/warwick/123456/12680.mp4
+#EXTINF:-1 group-title="S | OUTLANDER",Outlander S05 E12
+http://srvcliente.me:80/series/warwick/123456/12676.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S01 E01
+http://srvcliente.me:80/series/warwick/123456/12339.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S01 E02
+http://srvcliente.me:80/series/warwick/123456/12340.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S01 E03
+http://srvcliente.me:80/series/warwick/123456/12341.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S01 E04
+http://srvcliente.me:80/series/warwick/123456/12342.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S01 E05
+http://srvcliente.me:80/series/warwick/123456/12343.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S01 E06
+http://srvcliente.me:80/series/warwick/123456/12344.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S01 E07
+http://srvcliente.me:80/series/warwick/123456/12345.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S01 E08
+http://srvcliente.me:80/series/warwick/123456/12346.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S01 E09
+http://srvcliente.me:80/series/warwick/123456/12347.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S01 E10
+http://srvcliente.me:80/series/warwick/123456/12348.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S01 E11
+http://srvcliente.me:80/series/warwick/123456/12349.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S01 E12
+http://srvcliente.me:80/series/warwick/123456/12350.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S02 E01
+http://srvcliente.me:80/series/warwick/123456/12351.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S02 E02
+http://srvcliente.me:80/series/warwick/123456/12352.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S02 E03
+http://srvcliente.me:80/series/warwick/123456/12353.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S02 E04
+http://srvcliente.me:80/series/warwick/123456/12354.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S02 E05
+http://srvcliente.me:80/series/warwick/123456/12355.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S02 E06
+http://srvcliente.me:80/series/warwick/123456/12356.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S02 E07
+http://srvcliente.me:80/series/warwick/123456/12357.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S02 E08
+http://srvcliente.me:80/series/warwick/123456/12358.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S02 E09
+http://srvcliente.me:80/series/warwick/123456/12359.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S02 E10
+http://srvcliente.me:80/series/warwick/123456/12360.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S02 E11
+http://srvcliente.me:80/series/warwick/123456/12361.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S02 E12
+http://srvcliente.me:80/series/warwick/123456/12362.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S02 E13
+http://srvcliente.me:80/series/warwick/123456/12363.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S02 E14
+http://srvcliente.me:80/series/warwick/123456/12364.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S02 E15
+http://srvcliente.me:80/series/warwick/123456/12365.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S02 E16
+http://srvcliente.me:80/series/warwick/123456/12366.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S02 E17
+http://srvcliente.me:80/series/warwick/123456/12367.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S02 E18
+http://srvcliente.me:80/series/warwick/123456/12368.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S03 E01
+http://srvcliente.me:80/series/warwick/123456/12369.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S03 E02
+http://srvcliente.me:80/series/warwick/123456/12370.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S03 E03
+http://srvcliente.me:80/series/warwick/123456/12371.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S03 E04
+http://srvcliente.me:80/series/warwick/123456/12372.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S03 E05
+http://srvcliente.me:80/series/warwick/123456/12373.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S03 E06
+http://srvcliente.me:80/series/warwick/123456/12374.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S03 E07
+http://srvcliente.me:80/series/warwick/123456/12375.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S03 E08
+http://srvcliente.me:80/series/warwick/123456/12376.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S03 E09
+http://srvcliente.me:80/series/warwick/123456/12377.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S03 E10
+http://srvcliente.me:80/series/warwick/123456/12378.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S03 E11
+http://srvcliente.me:80/series/warwick/123456/12379.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S03 E12
+http://srvcliente.me:80/series/warwick/123456/12380.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S03 E13
+http://srvcliente.me:80/series/warwick/123456/12381.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S03 E14
+http://srvcliente.me:80/series/warwick/123456/12382.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S03 E15
+http://srvcliente.me:80/series/warwick/123456/12383.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S03 E16
+http://srvcliente.me:80/series/warwick/123456/12384.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S03 E17
+http://srvcliente.me:80/series/warwick/123456/12385.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S03 E18
+http://srvcliente.me:80/series/warwick/123456/12386.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S04 E01
+http://srvcliente.me:80/series/warwick/123456/12387.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S04 E02
+http://srvcliente.me:80/series/warwick/123456/12388.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S04 E03
+http://srvcliente.me:80/series/warwick/123456/12389.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S04 E04
+http://srvcliente.me:80/series/warwick/123456/12390.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S04 E05
+http://srvcliente.me:80/series/warwick/123456/12391.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S04 E06
+http://srvcliente.me:80/series/warwick/123456/12392.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S04 E07
+http://srvcliente.me:80/series/warwick/123456/12393.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S04 E08
+http://srvcliente.me:80/series/warwick/123456/12394.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S04 E09
+http://srvcliente.me:80/series/warwick/123456/12395.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S04 E10
+http://srvcliente.me:80/series/warwick/123456/12396.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S04 E11
+http://srvcliente.me:80/series/warwick/123456/12397.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S04 E12
+http://srvcliente.me:80/series/warwick/123456/12398.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S04 E13
+http://srvcliente.me:80/series/warwick/123456/12399.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S04 E14
+http://srvcliente.me:80/series/warwick/123456/12400.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S04 E15
+http://srvcliente.me:80/series/warwick/123456/12401.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S04 E16
+http://srvcliente.me:80/series/warwick/123456/12402.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S04 E17
+http://srvcliente.me:80/series/warwick/123456/12403.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO HOMEM DA TERRA",O Último Cara da Terra S04 E18
+http://srvcliente.me:80/series/warwick/123456/12404.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E01
+http://srvcliente.me:80/series/warwick/123456/10955.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E02
+http://srvcliente.me:80/series/warwick/123456/10956.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E03
+http://srvcliente.me:80/series/warwick/123456/10957.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E04
+http://srvcliente.me:80/series/warwick/123456/10958.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E05
+http://srvcliente.me:80/series/warwick/123456/10959.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E06
+http://srvcliente.me:80/series/warwick/123456/10960.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E07
+http://srvcliente.me:80/series/warwick/123456/10961.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E08
+http://srvcliente.me:80/series/warwick/123456/10962.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E09
+http://srvcliente.me:80/series/warwick/123456/10963.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E10
+http://srvcliente.me:80/series/warwick/123456/10964.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E11
+http://srvcliente.me:80/series/warwick/123456/10965.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E12
+http://srvcliente.me:80/series/warwick/123456/10966.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E13
+http://srvcliente.me:80/series/warwick/123456/10967.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E14
+http://srvcliente.me:80/series/warwick/123456/10968.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E15
+http://srvcliente.me:80/series/warwick/123456/10969.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E16
+http://srvcliente.me:80/series/warwick/123456/10970.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E17
+http://srvcliente.me:80/series/warwick/123456/10971.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E18
+http://srvcliente.me:80/series/warwick/123456/10972.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E19
+http://srvcliente.me:80/series/warwick/123456/10973.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E20
+http://srvcliente.me:80/series/warwick/123456/10974.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E21
+http://srvcliente.me:80/series/warwick/123456/10975.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E22
+http://srvcliente.me:80/series/warwick/123456/10976.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E23
+http://srvcliente.me:80/series/warwick/123456/10977.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E24
+http://srvcliente.me:80/series/warwick/123456/10978.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E25
+http://srvcliente.me:80/series/warwick/123456/10979.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E26
+http://srvcliente.me:80/series/warwick/123456/10980.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E27
+http://srvcliente.me:80/series/warwick/123456/10981.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E28
+http://srvcliente.me:80/series/warwick/123456/10982.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E29
+http://srvcliente.me:80/series/warwick/123456/10983.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E30
+http://srvcliente.me:80/series/warwick/123456/10984.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E31
+http://srvcliente.me:80/series/warwick/123456/10985.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E32
+http://srvcliente.me:80/series/warwick/123456/10986.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E33
+http://srvcliente.me:80/series/warwick/123456/10987.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E34
+http://srvcliente.me:80/series/warwick/123456/10988.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E35
+http://srvcliente.me:80/series/warwick/123456/10989.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E36
+http://srvcliente.me:80/series/warwick/123456/10990.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E37
+http://srvcliente.me:80/series/warwick/123456/10991.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S01 E38
+http://srvcliente.me:80/series/warwick/123456/10992.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E01
+http://srvcliente.me:80/series/warwick/123456/10993.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E02
+http://srvcliente.me:80/series/warwick/123456/10994.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E03
+http://srvcliente.me:80/series/warwick/123456/10995.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E04
+http://srvcliente.me:80/series/warwick/123456/10996.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E05
+http://srvcliente.me:80/series/warwick/123456/10997.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E06
+http://srvcliente.me:80/series/warwick/123456/10998.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E07
+http://srvcliente.me:80/series/warwick/123456/10999.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E08
+http://srvcliente.me:80/series/warwick/123456/11000.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E09
+http://srvcliente.me:80/series/warwick/123456/11001.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E10
+http://srvcliente.me:80/series/warwick/123456/11002.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E11
+http://srvcliente.me:80/series/warwick/123456/11003.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E12
+http://srvcliente.me:80/series/warwick/123456/11004.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E13
+http://srvcliente.me:80/series/warwick/123456/11005.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E14
+http://srvcliente.me:80/series/warwick/123456/11006.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E15
+http://srvcliente.me:80/series/warwick/123456/11007.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E16
+http://srvcliente.me:80/series/warwick/123456/11008.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E17
+http://srvcliente.me:80/series/warwick/123456/11009.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E18
+http://srvcliente.me:80/series/warwick/123456/11010.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E19
+http://srvcliente.me:80/series/warwick/123456/11011.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E20
+http://srvcliente.me:80/series/warwick/123456/11012.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E21
+http://srvcliente.me:80/series/warwick/123456/11013.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E22
+http://srvcliente.me:80/series/warwick/123456/11014.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E23
+http://srvcliente.me:80/series/warwick/123456/11015.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E24
+http://srvcliente.me:80/series/warwick/123456/11016.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E25
+http://srvcliente.me:80/series/warwick/123456/11017.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E26
+http://srvcliente.me:80/series/warwick/123456/11018.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E27
+http://srvcliente.me:80/series/warwick/123456/11019.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E28
+http://srvcliente.me:80/series/warwick/123456/11020.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E29
+http://srvcliente.me:80/series/warwick/123456/11021.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E30
+http://srvcliente.me:80/series/warwick/123456/11022.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E31
+http://srvcliente.me:80/series/warwick/123456/11023.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E32
+http://srvcliente.me:80/series/warwick/123456/11024.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E33
+http://srvcliente.me:80/series/warwick/123456/11025.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E34
+http://srvcliente.me:80/series/warwick/123456/11026.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E35
+http://srvcliente.me:80/series/warwick/123456/11027.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E36
+http://srvcliente.me:80/series/warwick/123456/11028.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E37
+http://srvcliente.me:80/series/warwick/123456/11029.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E38
+http://srvcliente.me:80/series/warwick/123456/11030.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E39
+http://srvcliente.me:80/series/warwick/123456/11031.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E40
+http://srvcliente.me:80/series/warwick/123456/11032.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E41
+http://srvcliente.me:80/series/warwick/123456/11033.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E42
+http://srvcliente.me:80/series/warwick/123456/11034.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E43
+http://srvcliente.me:80/series/warwick/123456/11035.mp4
+#EXTINF:-1 group-title="S | O ÚLTIMO DRAGÃO",O Ultimo Dragão S02 E44
+http://srvcliente.me:80/series/warwick/123456/11036.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S01 E01
+http://srvcliente.me:80/series/warwick/123456/23448.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S01 E02
+http://srvcliente.me:80/series/warwick/123456/23449.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S01 E03
+http://srvcliente.me:80/series/warwick/123456/23450.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S01 E04
+http://srvcliente.me:80/series/warwick/123456/23451.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S01 E05
+http://srvcliente.me:80/series/warwick/123456/23452.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S01 E06
+http://srvcliente.me:80/series/warwick/123456/23453.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S01 E07
+http://srvcliente.me:80/series/warwick/123456/23454.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S01 E08
+http://srvcliente.me:80/series/warwick/123456/23455.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S01 E09
+http://srvcliente.me:80/series/warwick/123456/23456.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S01 E10
+http://srvcliente.me:80/series/warwick/123456/23457.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S01 E11
+http://srvcliente.me:80/series/warwick/123456/23458.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S01 E12
+http://srvcliente.me:80/series/warwick/123456/23459.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S01 E13
+http://srvcliente.me:80/series/warwick/123456/23460.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S02 E01
+http://srvcliente.me:80/series/warwick/123456/23461.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S02 E02
+http://srvcliente.me:80/series/warwick/123456/23462.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S02 E03
+http://srvcliente.me:80/series/warwick/123456/23463.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S02 E04
+http://srvcliente.me:80/series/warwick/123456/23464.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S02 E05
+http://srvcliente.me:80/series/warwick/123456/23465.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S02 E06
+http://srvcliente.me:80/series/warwick/123456/23466.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S02 E07
+http://srvcliente.me:80/series/warwick/123456/23467.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S02 E08
+http://srvcliente.me:80/series/warwick/123456/23468.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S02 E09
+http://srvcliente.me:80/series/warwick/123456/23469.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S02 E10
+http://srvcliente.me:80/series/warwick/123456/23470.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S02 E11
+http://srvcliente.me:80/series/warwick/123456/23471.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S02 E12
+http://srvcliente.me:80/series/warwick/123456/23472.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S02 E13
+http://srvcliente.me:80/series/warwick/123456/23473.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S02 E14
+http://srvcliente.me:80/series/warwick/123456/23474.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S02 E15
+http://srvcliente.me:80/series/warwick/123456/23475.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S02 E16
+http://srvcliente.me:80/series/warwick/123456/23476.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S02 E17
+http://srvcliente.me:80/series/warwick/123456/23477.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S02 E18
+http://srvcliente.me:80/series/warwick/123456/23478.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S02 E19
+http://srvcliente.me:80/series/warwick/123456/23479.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S03 E01
+http://srvcliente.me:80/series/warwick/123456/23480.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S03 E02
+http://srvcliente.me:80/series/warwick/123456/23481.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S03 E03
+http://srvcliente.me:80/series/warwick/123456/23482.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S03 E04
+http://srvcliente.me:80/series/warwick/123456/23483.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S03 E05
+http://srvcliente.me:80/series/warwick/123456/23484.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S03 E06
+http://srvcliente.me:80/series/warwick/123456/23485.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S03 E07
+http://srvcliente.me:80/series/warwick/123456/23486.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S03 E08
+http://srvcliente.me:80/series/warwick/123456/23487.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S03 E09
+http://srvcliente.me:80/series/warwick/123456/23488.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S03 E10
+http://srvcliente.me:80/series/warwick/123456/23489.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S03 E11
+http://srvcliente.me:80/series/warwick/123456/23490.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S03 E12
+http://srvcliente.me:80/series/warwick/123456/23491.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S04 E01
+http://srvcliente.me:80/series/warwick/123456/23492.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S04 E02
+http://srvcliente.me:80/series/warwick/123456/23493.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S04 E03
+http://srvcliente.me:80/series/warwick/123456/23494.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S04 E04
+http://srvcliente.me:80/series/warwick/123456/23495.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S04 E05
+http://srvcliente.me:80/series/warwick/123456/23496.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S04 E06
+http://srvcliente.me:80/series/warwick/123456/23497.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S04 E07
+http://srvcliente.me:80/series/warwick/123456/23498.mp4
+#EXTINF:-1 group-title="S | O VIDENTE",O Vidente S04 E08
+http://srvcliente.me:80/series/warwick/123456/23499.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S05 E08
+http://srvcliente.me:80/series/warwick/123456/14524.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S05 E19
+http://srvcliente.me:80/series/warwick/123456/14535.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S07 E01
+http://srvcliente.me:80/series/warwick/123456/14561.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S07 E02
+http://srvcliente.me:80/series/warwick/123456/14562.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S07 E03
+http://srvcliente.me:80/series/warwick/123456/14563.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S07 E04
+http://srvcliente.me:80/series/warwick/123456/14564.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S07 E05
+http://srvcliente.me:80/series/warwick/123456/14565.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S07 E06
+http://srvcliente.me:80/series/warwick/123456/14566.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S07 E07
+http://srvcliente.me:80/series/warwick/123456/14567.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S07 E08
+http://srvcliente.me:80/series/warwick/123456/14568.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S07 E09
+http://srvcliente.me:80/series/warwick/123456/14569.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S07 E10
+http://srvcliente.me:80/series/warwick/123456/14570.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S07 E11
+http://srvcliente.me:80/series/warwick/123456/14571.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S07 E12
+http://srvcliente.me:80/series/warwick/123456/14572.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S07 E13
+http://srvcliente.me:80/series/warwick/123456/14573.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S07 E14
+http://srvcliente.me:80/series/warwick/123456/14574.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S07 E15
+http://srvcliente.me:80/series/warwick/123456/14575.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S07 E16
+http://srvcliente.me:80/series/warwick/123456/14576.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S07 E17
+http://srvcliente.me:80/series/warwick/123456/14577.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S07 E18
+http://srvcliente.me:80/series/warwick/123456/14578.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S07 E19
+http://srvcliente.me:80/series/warwick/123456/14579.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S07 E20
+http://srvcliente.me:80/series/warwick/123456/14580.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S07 E21
+http://srvcliente.me:80/series/warwick/123456/14581.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S07 E22
+http://srvcliente.me:80/series/warwick/123456/14582.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S08 E01
+http://srvcliente.me:80/series/warwick/123456/14583.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S08 E02
+http://srvcliente.me:80/series/warwick/123456/14584.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S08 E03
+http://srvcliente.me:80/series/warwick/123456/14585.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S08 E04
+http://srvcliente.me:80/series/warwick/123456/14586.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S08 E05
+http://srvcliente.me:80/series/warwick/123456/14587.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S08 E06
+http://srvcliente.me:80/series/warwick/123456/14588.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S08 E07
+http://srvcliente.me:80/series/warwick/123456/14589.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S08 E08
+http://srvcliente.me:80/series/warwick/123456/14590.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S08 E09
+http://srvcliente.me:80/series/warwick/123456/14591.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S08 E10
+http://srvcliente.me:80/series/warwick/123456/14592.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S08 E11
+http://srvcliente.me:80/series/warwick/123456/14593.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S08 E12
+http://srvcliente.me:80/series/warwick/123456/14594.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S08 E13
+http://srvcliente.me:80/series/warwick/123456/14595.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S08 E14
+http://srvcliente.me:80/series/warwick/123456/14596.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S08 E15
+http://srvcliente.me:80/series/warwick/123456/14597.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S08 E16
+http://srvcliente.me:80/series/warwick/123456/14598.mp4
+#EXTINF:-1 group-title="S | THE VAMPIRES DIARIES",Diários de um Vampiro S08 E17
+http://srvcliente.me:80/series/warwick/123456/14599.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S01 E01
+http://srvcliente.me:80/series/warwick/123456/14809.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S01 E02
+http://srvcliente.me:80/series/warwick/123456/14810.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S01 E03
+http://srvcliente.me:80/series/warwick/123456/14811.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S01 E04
+http://srvcliente.me:80/series/warwick/123456/14812.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S01 E05
+http://srvcliente.me:80/series/warwick/123456/14813.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S01 E06
+http://srvcliente.me:80/series/warwick/123456/14814.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S02 E01
+http://srvcliente.me:80/series/warwick/123456/14815.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S02 E02
+http://srvcliente.me:80/series/warwick/123456/14816.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S02 E03
+http://srvcliente.me:80/series/warwick/123456/14817.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S02 E04
+http://srvcliente.me:80/series/warwick/123456/14818.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S02 E05
+http://srvcliente.me:80/series/warwick/123456/14819.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S02 E06
+http://srvcliente.me:80/series/warwick/123456/14820.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S02 E07
+http://srvcliente.me:80/series/warwick/123456/14821.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S02 E08
+http://srvcliente.me:80/series/warwick/123456/14822.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S02 E09
+http://srvcliente.me:80/series/warwick/123456/14823.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S02 E10
+http://srvcliente.me:80/series/warwick/123456/14824.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S02 E11
+http://srvcliente.me:80/series/warwick/123456/14825.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S02 E12
+http://srvcliente.me:80/series/warwick/123456/14826.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S02 E13
+http://srvcliente.me:80/series/warwick/123456/14827.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S03 E01
+http://srvcliente.me:80/series/warwick/123456/14828.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S03 E02
+http://srvcliente.me:80/series/warwick/123456/14829.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S03 E03
+http://srvcliente.me:80/series/warwick/123456/14830.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S03 E04
+http://srvcliente.me:80/series/warwick/123456/14831.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S03 E05
+http://srvcliente.me:80/series/warwick/123456/14832.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S03 E06
+http://srvcliente.me:80/series/warwick/123456/14833.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S03 E07
+http://srvcliente.me:80/series/warwick/123456/14834.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S03 E08
+http://srvcliente.me:80/series/warwick/123456/14835.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S03 E09
+http://srvcliente.me:80/series/warwick/123456/14836.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S03 E10
+http://srvcliente.me:80/series/warwick/123456/14837.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S03 E11
+http://srvcliente.me:80/series/warwick/123456/14838.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S03 E12
+http://srvcliente.me:80/series/warwick/123456/14839.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S03 E13
+http://srvcliente.me:80/series/warwick/123456/14840.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S03 E14
+http://srvcliente.me:80/series/warwick/123456/14841.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S03 E15
+http://srvcliente.me:80/series/warwick/123456/14842.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S03 E16
+http://srvcliente.me:80/series/warwick/123456/14843.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S04 E01
+http://srvcliente.me:80/series/warwick/123456/14844.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S04 E02
+http://srvcliente.me:80/series/warwick/123456/14845.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S04 E03
+http://srvcliente.me:80/series/warwick/123456/14846.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S04 E04
+http://srvcliente.me:80/series/warwick/123456/14847.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S04 E05
+http://srvcliente.me:80/series/warwick/123456/14848.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S04 E06
+http://srvcliente.me:80/series/warwick/123456/14849.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S04 E07
+http://srvcliente.me:80/series/warwick/123456/14850.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S04 E08
+http://srvcliente.me:80/series/warwick/123456/14851.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S04 E09
+http://srvcliente.me:80/series/warwick/123456/14852.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S04 E10
+http://srvcliente.me:80/series/warwick/123456/14853.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S04 E11
+http://srvcliente.me:80/series/warwick/123456/14854.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S04 E12
+http://srvcliente.me:80/series/warwick/123456/14855.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S04 E13
+http://srvcliente.me:80/series/warwick/123456/14856.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S04 E14
+http://srvcliente.me:80/series/warwick/123456/14857.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S04 E15
+http://srvcliente.me:80/series/warwick/123456/14858.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S04 E16
+http://srvcliente.me:80/series/warwick/123456/14859.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S05 E02
+http://srvcliente.me:80/series/warwick/123456/14861.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S05 E03
+http://srvcliente.me:80/series/warwick/123456/14862.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S05 E09
+http://srvcliente.me:80/series/warwick/123456/14868.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S05 E10
+http://srvcliente.me:80/series/warwick/123456/14869.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S05 E11
+http://srvcliente.me:80/series/warwick/123456/14870.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S05 E12
+http://srvcliente.me:80/series/warwick/123456/14871.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S05 E13
+http://srvcliente.me:80/series/warwick/123456/14872.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S05 E14
+http://srvcliente.me:80/series/warwick/123456/14873.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S05 E15
+http://srvcliente.me:80/series/warwick/123456/14874.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S05 E16
+http://srvcliente.me:80/series/warwick/123456/14875.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S06 E01
+http://srvcliente.me:80/series/warwick/123456/14876.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S06 E02
+http://srvcliente.me:80/series/warwick/123456/14877.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S06 E04
+http://srvcliente.me:80/series/warwick/123456/14879.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S06 E05
+http://srvcliente.me:80/series/warwick/123456/14880.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S09 E01
+http://srvcliente.me:80/series/warwick/123456/14924.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S09 E02
+http://srvcliente.me:80/series/warwick/123456/14925.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S09 E03
+http://srvcliente.me:80/series/warwick/123456/14926.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S09 E04
+http://srvcliente.me:80/series/warwick/123456/14927.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S09 E05
+http://srvcliente.me:80/series/warwick/123456/14928.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S09 E06
+http://srvcliente.me:80/series/warwick/123456/14929.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S09 E07
+http://srvcliente.me:80/series/warwick/123456/14930.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S09 E08
+http://srvcliente.me:80/series/warwick/123456/14931.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S09 E12
+http://srvcliente.me:80/series/warwick/123456/14935.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S09 E14
+http://srvcliente.me:80/series/warwick/123456/14937.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S09 E15
+http://srvcliente.me:80/series/warwick/123456/14938.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S09 E16
+http://srvcliente.me:80/series/warwick/123456/14939.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S10 E01
+http://srvcliente.me:80/series/warwick/123456/14940.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S10 E02
+http://srvcliente.me:80/series/warwick/123456/14941.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S10 E03
+http://srvcliente.me:80/series/warwick/123456/14942.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S10 E04
+http://srvcliente.me:80/series/warwick/123456/14943.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S10 E05
+http://srvcliente.me:80/series/warwick/123456/14944.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S10 E06
+http://srvcliente.me:80/series/warwick/123456/14945.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S10 E07
+http://srvcliente.me:80/series/warwick/123456/14946.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S10 E08
+http://srvcliente.me:80/series/warwick/123456/14947.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S10 E09
+http://srvcliente.me:80/series/warwick/123456/14948.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S10 E10
+http://srvcliente.me:80/series/warwick/123456/14949.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S10 E11
+http://srvcliente.me:80/series/warwick/123456/14950.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S10 E12
+http://srvcliente.me:80/series/warwick/123456/14951.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S10 E13
+http://srvcliente.me:80/series/warwick/123456/14952.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S10 E14
+http://srvcliente.me:80/series/warwick/123456/14953.mp4
+#EXTINF:-1 group-title="S | THE WALKING DEAD",The Walking Dead S10 E15
+http://srvcliente.me:80/series/warwick/123456/14954.mp4
+#EXTINF:-1 group-title="S | THE WICTHER",The Witcher S01 E01
+http://srvcliente.me:80/series/warwick/123456/7405.mp4
+#EXTINF:-1 group-title="S | THE WICTHER",The Witcher S01 E02
+http://srvcliente.me:80/series/warwick/123456/7406.mp4
+#EXTINF:-1 group-title="S | THE WICTHER",The Witcher S01 E03
+http://srvcliente.me:80/series/warwick/123456/7407.mp4
+#EXTINF:-1 group-title="S | THE WICTHER",The Witcher S01 E04
+http://srvcliente.me:80/series/warwick/123456/7408.mp4
+#EXTINF:-1 group-title="S | THE WICTHER",The Witcher S01 E05
+http://srvcliente.me:80/series/warwick/123456/7409.mp4
+#EXTINF:-1 group-title="S | THE WICTHER",The Witcher S01 E06
+http://srvcliente.me:80/series/warwick/123456/7410.mp4
+#EXTINF:-1 group-title="S | THE WICTHER",The Witcher S01 E07
+http://srvcliente.me:80/series/warwick/123456/7411.mp4
+#EXTINF:-1 group-title="S | THE WICTHER",The Witcher S01 E08
+http://srvcliente.me:80/series/warwick/123456/7412.mp4
+#EXTINF:-1 group-title="S | THIS IS US",This Is Us S01 E01
+http://srvcliente.me:80/series/warwick/123456/12490.mp4
+#EXTINF:-1 group-title="S | THIS IS US",This Is Us S01 E02
+http://srvcliente.me:80/series/warwick/123456/12491.mp4
+#EXTINF:-1 group-title="S | THIS IS US",This Is Us S01 E03
+http://srvcliente.me:80/series/warwick/123456/12492.mp4
+#EXTINF:-1 group-title="S | THIS IS US",This Is Us S01 E04
+http://srvcliente.me:80/series/warwick/123456/12493.mp4
+#EXTINF:-1 group-title="S | THIS IS US",This Is Us S01 E05
+http://srvcliente.me:80/series/warwick/123456/12494.mp4
+#EXTINF:-1 group-title="S | THIS IS US",This Is Us S01 E06
+http://srvcliente.me:80/series/warwick/123456/12495.mp4
+#EXTINF:-1 group-title="S | THIS IS US",This Is Us S01 E07
+http://srvcliente.me:80/series/warwick/123456/12496.mp4
+#EXTINF:-1 group-title="S | THIS IS US",This Is Us S01 E08
+http://srvcliente.me:80/series/warwick/123456/12497.mp4
+#EXTINF:-1 group-title="S | THIS IS US",This Is Us S01 E09
+http://srvcliente.me:80/series/warwick/123456/12498.mp4
+#EXTINF:-1 group-title="S | THIS IS US",This Is Us S01 E10
+http://srvcliente.me:80/series/warwick/123456/12499.mp4
+#EXTINF:-1 group-title="S | THIS IS US",This Is Us S01 E11
+http://srvcliente.me:80/series/warwick/123456/12500.mp4
+#EXTINF:-1 group-title="S | THIS IS US",This Is Us S01 E12
+http://srvcliente.me:80/series/warwick/123456/12501.mp4
+#EXTINF:-1 group-title="S | THIS IS US",This Is Us S01 E13
+http://srvcliente.me:80/series/warwick/123456/12502.mp4
+#EXTINF:-1 group-title="S | THIS IS US",This Is Us S01 E14
+http://srvcliente.me:80/series/warwick/123456/12503.mp4
+#EXTINF:-1 group-title="S | THIS IS US",This Is Us S01 E15
+http://srvcliente.me:80/series/warwick/123456/12504.mp4
+#EXTINF:-1 group-title="S | THIS IS US",This Is Us S01 E16
+http://srvcliente.me:80/series/warwick/123456/12505.mp4
+#EXTINF:-1 group-title="S | THIS IS US",This Is Us S01 E17
+http://srvcliente.me:80/series/warwick/123456/12506.mp4
+#EXTINF:-1 group-title="S | THIS IS US",This Is Us S01 E18
+http://srvcliente.me:80/series/warwick/123456/12507.mp4
+#EXTINF:-1 group-title="S | THIS IS US",This Is Us S02 E01
+http://srvcliente.me:80/series/warwick/123456/12508.mp4
+#EXTINF:-1 group-title="S | THIS IS US",This Is Us S02 E02
+http://srvcliente.me:80/series/warwick/123456/12509.mp4
+#EXTINF:-1 group-title="S | THIS IS US",This Is Us S02 E03
+http://srvcliente.me:80/series/warwick/123456/12510.mp4
+#EXTINF:-1 group-title="S | THIS IS US",This Is Us S02 E04
+http://srvcliente.me:80/series/warwick/123456/12511.mp4
+#EXTINF:-1 group-title="S | THIS IS US",This Is Us S02 E05
+http://srvcliente.me:80/series/warwick/123456/12512.mp4
+#EXTINF:-1 group-title="S | THIS IS US",This Is Us S02 E06
+http://srvcliente.me:80/series/warwick/123456/12513.mp4
